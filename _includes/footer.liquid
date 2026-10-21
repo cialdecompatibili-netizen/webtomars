@@ -36,10 +36,6 @@
   :root { --footer-h: 40px; }
   /* accessibilita': i link nel testo del footer non si distinguono solo dal colore */
   footer a { text-decoration: underline; }
-  /* aura dorata "oracolo": luce che parte dal testo stesso, ampia, senza bordi ne' riquadri */
-  footer.fixed-bottom .container { text-shadow: 0 0 4px rgba(255,214,110,.95), 0 0 10px rgba(255,196,60,.85), 0 0 22px rgba(255,180,30,.65), 0 0 40px rgba(255,165,0,.45), 0 0 70px rgba(255,150,0,.3); animation: footer-aura 4.5s ease-in-out infinite; }
-  @keyframes footer-aura { 0%,100% { text-shadow: 0 0 4px rgba(255,214,110,.9), 0 0 10px rgba(255,196,60,.75), 0 0 22px rgba(255,180,30,.55), 0 0 40px rgba(255,165,0,.38), 0 0 70px rgba(255,150,0,.25); } 50% { text-shadow: 0 0 5px rgba(255,224,130,1), 0 0 13px rgba(255,200,70,.95), 0 0 28px rgba(255,185,40,.78), 0 0 52px rgba(255,170,0,.55), 0 0 90px rgba(255,150,0,.38); } }
-  @media (prefers-reduced-motion: reduce) { footer.fixed-bottom .container { animation: none; } }
   #whatsapp-demo-btn {
     position: fixed;
     right: 30px;
