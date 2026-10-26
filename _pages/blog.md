@@ -71,6 +71,13 @@ pagination:
     .post .post-list > li > .row > .col-sm-3 .thumb-link { position: absolute; inset: 0; }
     .post .post-list > li > .row > .col-sm-3 .card-img { width: 100%; height: 100% !important; aspect-ratio: auto; object-fit: cover; border-radius: .375rem; }
   }
+  /* CARD INTERA CLICCABILE + HOVER: il titolo (.post-title) si estende su tutto il <li> con ::after (tecnica "stretched link"), quindi cliccando ovunque nella card si apre l'articolo. Anno/tag/categorie restano cliccabili perche' hanno z-index piu' alto. Hover: sfondo leggermente piu' scuro/chiaro (color-mix col colore del testo: funziona in tema chiaro e scuro); cambia l'1.. 6% per piu' o meno effetto. */
+  .post .post-list > li { position: relative; border-radius: .375rem; transition: background-color .2s; }
+  .post .post-list > li:hover { background-color: color-mix(in srgb, var(--global-text-color) 6%, transparent); }
+  .post .post-list > li .post-title::after { content: ""; position: absolute; inset: 0; z-index: 1; }
+  .post .post-list > li .post-tags a { position: relative; z-index: 2; }
+  /* FOTO A SINISTRA su desktop: solo ordine visivo (order:-1), il codice HTML non cambia. Su mobile resta sopra il titolo come prima. */
+  @media (min-width: 576px) { .post .post-list > li > .row > .col-sm-3 { order: -1; } .post .post-list > li > .row > .col-sm-9 { padding-left: 1rem; } }
   .post > .tag-category-list li + li::before { content: "\00b7"; margin-right: .35rem; color: var(--global-text-color-light); }
 </style>
 {% assign blog_desc = site.blog_description | strip %}
