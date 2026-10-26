@@ -3,7 +3,7 @@ layout: servizio
 title: Sito per wedding planner ed eventi
 description: "Sito per wedding planner ed eventi su misura: atmosfera, pacchetti e preventivi. Pensato per wedding planner, organizzatori di eventi e location. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 13
+ordine: 19
 sottotitolo: "Atmosfera, pacchetti e preventivi"
 seo_title: Sito per wedding planner ed eventi - Smart Web Agency
 seo_description: "Sito per wedding planner ed eventi su misura: atmosfera, pacchetti e preventivi. Pensato per wedding planner, organizzatori di eventi e location. Prima consulenza gratuita."

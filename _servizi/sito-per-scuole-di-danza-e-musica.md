@@ -3,7 +3,7 @@ layout: servizio
 title: Sito per scuole di danza e musica
 description: "Sito per scuole di danza e musica su misura: corsi, orari e iscrizioni. Pensato per scuole di danza, scuole di musica e accademie. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 22
+ordine: 29
 sottotitolo: "Corsi, orari e iscrizioni"
 seo_title: Sito per scuole di danza e musica - Smart Web Agency
 seo_description: "Sito per scuole di danza e musica su misura: corsi, orari e iscrizioni. Pensato per scuole di danza, scuole di musica e accademie. Prima consulenza gratuita."
