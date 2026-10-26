@@ -3,6 +3,8 @@ layout: post
 title: "SEO per e-commerce: come far trovare il tuo negozio online"
 date: 2026-10-02 09:30:00
 description: "Struttura del catalogo, schede prodotto, velocita' e contenuti: i passi concreti per portare clienti qualificati al tuo e-commerce."
+thumbnail: assets/img/seo-per-ecommerce.jpg
+thumbnail_alt: "Scrivania con laptop e tablet che mostrano un negozio online"
 categories: seo
 toc:
   beginning: true

@@ -3,6 +3,8 @@ layout: post
 title: "Google Ads o SEO: quale scegliere per la tua azienda"
 date: 2026-10-08 09:00:00
 description: "Visibilita' immediata o risultati nel tempo? Quando conviene ciascun canale e come farli lavorare insieme."
+thumbnail: assets/img/google-ads-o-seo.jpg
+thumbnail_alt: "Smartphone con la ricerca Google aperta sui risultati di Analytics"
 categories: web-marketing
 toc:
   beginning: true

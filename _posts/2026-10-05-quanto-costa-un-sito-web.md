@@ -3,6 +3,8 @@ layout: post
 title: "Quanto costa un sito web aziendale: cosa conta davvero"
 date: 2026-10-05 10:00:00
 description: "Dal numero di pagine alla manutenzione: i fattori che determinano il preventivo e come confrontare due offerte."
+thumbnail: assets/img/quanto-costa-un-sito-web.jpg
+thumbnail_alt: "Scrivania con laptop, calcolatrice e taccuino per calcolare il preventivo di un sito"
 categories: web-design
 toc:
   beginning: true
