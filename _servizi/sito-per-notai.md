@@ -3,7 +3,7 @@ layout: servizio
 title: Sito per notai
 description: "Sito per notai su misura: un sito sobrio per lo studio. Pensato per notai e studi notarili. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 30
+ordine: 35
 sottotitolo: Un sito sobrio per lo studio
 seo_title: Sito per notai - Smart Web Agency
 seo_description: "Sito per notai su misura: un sito sobrio per lo studio. Pensato per notai e studi notarili. Prima consulenza gratuita."

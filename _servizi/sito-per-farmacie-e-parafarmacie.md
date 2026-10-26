@@ -3,7 +3,7 @@ layout: servizio
 title: Sito per farmacie e parafarmacie
 description: "Sito per farmacie e parafarmacie su misura: servizi e orari sempre a portata di mano. Pensato per farmacie e parafarmacie. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 14
+ordine: 19
 sottotitolo: Servizi e orari sempre a portata di mano
 seo_title: Sito per farmacie e parafarmacie - Smart Web Agency
 seo_description: "Sito per farmacie e parafarmacie su misura: servizi e orari sempre a portata di mano. Pensato per farmacie e parafarmacie. Prima consulenza gratuita."

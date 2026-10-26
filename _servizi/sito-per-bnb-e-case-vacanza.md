@@ -3,7 +3,7 @@ layout: servizio
 title: "Sito per B&B e case vacanza"
 description: "Sito per B&B e case vacanza su misura: meno commissioni, più prenotazioni dirette. Pensato per B&B, affittacamere, agriturismi e case vacanza. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 18
+ordine: 23
 sottotitolo: "Meno commissioni, più prenotazioni dirette"
 seo_title: "Sito per B&B e case vacanza - Smart Web Agency"
 seo_description: "Sito per B&B e case vacanza su misura: meno commissioni, più prenotazioni dirette. Pensato per B&B, affittacamere, agriturismi e case vacanza. Prima consulenza gratuita."

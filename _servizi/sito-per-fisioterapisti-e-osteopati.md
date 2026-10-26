@@ -3,7 +3,7 @@ layout: servizio
 title: Sito per fisioterapisti e osteopati
 description: "Sito per fisioterapisti e osteopati su misura: trattamenti e prenotazione visite. Pensato per fisioterapisti, osteopati, chiropratici e centri di riabilitazione. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 15
+ordine: 20
 sottotitolo: Trattamenti e prenotazione visite
 seo_title: Sito per fisioterapisti e osteopati - Smart Web Agency
 seo_description: "Sito per fisioterapisti e osteopati su misura: trattamenti e prenotazione visite. Pensato per fisioterapisti, osteopati, chiropratici e centri di riabilitazione. Prima consulenza gratuita."
