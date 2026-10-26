@@ -1,15 +1,15 @@
 ---
 layout: servizio
 title: Sito per agenti immobiliari
-description: "Sito per agenti immobiliari su misura per agenti immobiliari, agenzie e consulenti: annunci, zone e contatti. Prima consulenza gratuita."
+description: "Sito per agenti immobiliari su misura: annunci, zone e contatti. Pensato per agenti immobiliari, agenzie e consulenti. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 12
+ordine: 5
 sottotitolo: "Annunci, zone e contatti"
 seo_title: Sito per agenti immobiliari - Smart Web Agency
-seo_description: "Sito per agenti immobiliari su misura per agenti immobiliari, agenzie e consulenti: annunci, zone e contatti. Prima consulenza gratuita."
+seo_description: "Sito per agenti immobiliari su misura: annunci, zone e contatti. Pensato per agenti immobiliari, agenzie e consulenti. Prima consulenza gratuita."
 ---
 
-Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo **sito per agenti immobiliari** su misura per agenti immobiliari, agenzie e consulenti.
+Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo un **sito per agenti immobiliari** pensato per agenti immobiliari, agenzie e consulenti.
 
 ## Cosa include
 

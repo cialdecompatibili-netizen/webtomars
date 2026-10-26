@@ -1,15 +1,15 @@
 ---
 layout: servizio
 title: Sito per artigiani e imprese edili
-description: "Sito per artigiani e imprese edili su misura per idraulici, elettricisti, imprese edili e artigiani: lavori, zone servite e preventivi. Prima consulenza gratuita."
+description: "Sito per artigiani e imprese edili su misura: lavori, zone servite e preventivi. Pensato per idraulici, elettricisti, imprese edili e artigiani. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 9
+ordine: 6
 sottotitolo: "Lavori, zone servite e preventivi"
 seo_title: Sito per artigiani e imprese edili - Smart Web Agency
-seo_description: "Sito per artigiani e imprese edili su misura per idraulici, elettricisti, imprese edili e artigiani: lavori, zone servite e preventivi. Prima consulenza gratuita."
+seo_description: "Sito per artigiani e imprese edili su misura: lavori, zone servite e preventivi. Pensato per idraulici, elettricisti, imprese edili e artigiani. Prima consulenza gratuita."
 ---
 
-Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo **sito per artigiani e imprese edili** su misura per idraulici, elettricisti, imprese edili e artigiani.
+Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo un **sito per artigiani e imprese edili** pensato per idraulici, elettricisti, imprese edili e artigiani.
 
 ## Cosa include
 

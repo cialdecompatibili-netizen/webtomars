@@ -1,15 +1,15 @@
 ---
 layout: servizio
 title: Sito per avvocati e studi legali
-description: "Sito per avvocati e studi legali su misura per avvocati, studi legali e consulenti: autorevolezza e richieste di consulenza. Prima consulenza gratuita."
+description: "Sito per avvocati e studi legali su misura: autorevolezza e richieste di consulenza. Pensato per avvocati, studi legali e consulenti. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 3
+ordine: 1
 sottotitolo: Autorevolezza e richieste di consulenza
 seo_title: Sito per avvocati e studi legali - Smart Web Agency
-seo_description: "Sito per avvocati e studi legali su misura per avvocati, studi legali e consulenti: autorevolezza e richieste di consulenza. Prima consulenza gratuita."
+seo_description: "Sito per avvocati e studi legali su misura: autorevolezza e richieste di consulenza. Pensato per avvocati, studi legali e consulenti. Prima consulenza gratuita."
 ---
 
-Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo **sito per avvocati e studi legali** su misura per avvocati, studi legali e consulenti.
+Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo un **sito per avvocati e studi legali** pensato per avvocati, studi legali e consulenti.
 
 ## Cosa include
 

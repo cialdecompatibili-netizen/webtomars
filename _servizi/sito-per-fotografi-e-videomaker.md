@@ -1,15 +1,15 @@
 ---
 layout: servizio
 title: Sito per fotografi e videomaker
-description: "Sito per fotografi e videomaker su misura per fotografi, videomaker e studi creativi: portfolio veloce e richieste di preventivo. Prima consulenza gratuita."
+description: "Sito per fotografi e videomaker su misura: portfolio veloce e richieste di preventivo. Pensato per fotografi, videomaker e studi creativi. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 7
+ordine: 18
 sottotitolo: Portfolio veloce e richieste di preventivo
 seo_title: Sito per fotografi e videomaker - Smart Web Agency
-seo_description: "Sito per fotografi e videomaker su misura per fotografi, videomaker e studi creativi: portfolio veloce e richieste di preventivo. Prima consulenza gratuita."
+seo_description: "Sito per fotografi e videomaker su misura: portfolio veloce e richieste di preventivo. Pensato per fotografi, videomaker e studi creativi. Prima consulenza gratuita."
 ---
 
-Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo **sito per fotografi e videomaker** su misura per fotografi, videomaker e studi creativi.
+Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo un **sito per fotografi e videomaker** pensato per fotografi, videomaker e studi creativi.
 
 ## Cosa include
 

@@ -1,15 +1,15 @@
 ---
 layout: servizio
 title: Sito per chef e cuochi
-description: "Sito per chef e cuochi su misura per chef, cuochi a domicilio e personal chef: menu, eventi e catering privato. Prima consulenza gratuita."
+description: "Sito per chef e cuochi su misura: menu, eventi e catering privato. Pensato per chef, cuochi a domicilio e personal chef. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 1
+ordine: 19
 sottotitolo: "Menu, eventi e catering privato"
 seo_title: Sito per chef e cuochi - Smart Web Agency
-seo_description: "Sito per chef e cuochi su misura per chef, cuochi a domicilio e personal chef: menu, eventi e catering privato. Prima consulenza gratuita."
+seo_description: "Sito per chef e cuochi su misura: menu, eventi e catering privato. Pensato per chef, cuochi a domicilio e personal chef. Prima consulenza gratuita."
 ---
 
-Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo **sito per chef e cuochi** su misura per chef, cuochi a domicilio e personal chef.
+Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo un **sito per chef e cuochi** pensato per chef, cuochi a domicilio e personal chef.
 
 ## Cosa include
 

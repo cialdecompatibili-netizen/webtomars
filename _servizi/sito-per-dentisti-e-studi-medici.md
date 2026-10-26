@@ -1,15 +1,15 @@
 ---
 layout: servizio
 title: Sito per dentisti e studi medici
-description: "Sito per dentisti e studi medici su misura per dentisti, medici e studi sanitari: trasparenza e prenotazione visite. Prima consulenza gratuita."
+description: "Sito per dentisti e studi medici su misura: trasparenza e prenotazione visite. Pensato per dentisti, medici e studi sanitari. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 4
+ordine: 2
 sottotitolo: Trasparenza e prenotazione visite
 seo_title: Sito per dentisti e studi medici - Smart Web Agency
-seo_description: "Sito per dentisti e studi medici su misura per dentisti, medici e studi sanitari: trasparenza e prenotazione visite. Prima consulenza gratuita."
+seo_description: "Sito per dentisti e studi medici su misura: trasparenza e prenotazione visite. Pensato per dentisti, medici e studi sanitari. Prima consulenza gratuita."
 ---
 
-Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo **sito per dentisti e studi medici** su misura per dentisti, medici e studi sanitari.
+Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo un **sito per dentisti e studi medici** pensato per dentisti, medici e studi sanitari.
 
 ## Cosa include
 

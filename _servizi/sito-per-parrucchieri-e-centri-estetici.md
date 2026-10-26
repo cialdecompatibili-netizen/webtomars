@@ -1,15 +1,15 @@
 ---
 layout: servizio
 title: Sito per parrucchieri e centri estetici
-description: "Sito per parrucchieri e centri estetici su misura per parrucchieri, barbieri, centri estetici e spa: servizi, listino e prenotazioni. Prima consulenza gratuita."
+description: "Sito per parrucchieri e centri estetici su misura: servizi, listino e prenotazioni. Pensato per parrucchieri, barbieri, centri estetici e spa. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 5
+ordine: 16
 sottotitolo: "Servizi, listino e prenotazioni"
 seo_title: Sito per parrucchieri e centri estetici - Smart Web Agency
-seo_description: "Sito per parrucchieri e centri estetici su misura per parrucchieri, barbieri, centri estetici e spa: servizi, listino e prenotazioni. Prima consulenza gratuita."
+seo_description: "Sito per parrucchieri e centri estetici su misura: servizi, listino e prenotazioni. Pensato per parrucchieri, barbieri, centri estetici e spa. Prima consulenza gratuita."
 ---
 
-Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo **sito per parrucchieri e centri estetici** su misura per parrucchieri, barbieri, centri estetici e spa.
+Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo un **sito per parrucchieri e centri estetici** pensato per parrucchieri, barbieri, centri estetici e spa.
 
 ## Cosa include
 

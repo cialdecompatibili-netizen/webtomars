@@ -1,15 +1,15 @@
 ---
 layout: servizio
 title: Sito per architetti e studi tecnici
-description: "Sito per architetti e studi tecnici su misura per architetti, geometri, ingegneri e studi tecnici: progetti e credibilità professionale. Prima consulenza gratuita."
+description: "Sito per architetti e studi tecnici su misura: progetti e credibilità professionale. Pensato per architetti, geometri, ingegneri e studi tecnici. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 10
+ordine: 7
 sottotitolo: "Progetti e credibilità professionale"
 seo_title: Sito per architetti e studi tecnici - Smart Web Agency
-seo_description: "Sito per architetti e studi tecnici su misura per architetti, geometri, ingegneri e studi tecnici: progetti e credibilità professionale. Prima consulenza gratuita."
+seo_description: "Sito per architetti e studi tecnici su misura: progetti e credibilità professionale. Pensato per architetti, geometri, ingegneri e studi tecnici. Prima consulenza gratuita."
 ---
 
-Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo **sito per architetti e studi tecnici** su misura per architetti, geometri, ingegneri e studi tecnici.
+Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo un **sito per architetti e studi tecnici** pensato per architetti, geometri, ingegneri e studi tecnici.
 
 ## Cosa include
 

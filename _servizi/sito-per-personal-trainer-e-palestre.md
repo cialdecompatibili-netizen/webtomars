@@ -1,15 +1,15 @@
 ---
 layout: servizio
 title: Sito per personal trainer e palestre
-description: "Sito per personal trainer e palestre su misura per personal trainer, palestre, studi di yoga e pilates: corsi, abbonamenti e community. Prima consulenza gratuita."
+description: "Sito per personal trainer e palestre su misura: corsi, abbonamenti e community. Pensato per personal trainer, palestre, studi di yoga e pilates. Prima consulenza gratuita."
 gruppo: Siti su misura per nicchia
-ordine: 6
+ordine: 17
 sottotitolo: "Corsi, abbonamenti e community"
 seo_title: Sito per personal trainer e palestre - Smart Web Agency
-seo_description: "Sito per personal trainer e palestre su misura per personal trainer, palestre, studi di yoga e pilates: corsi, abbonamenti e community. Prima consulenza gratuita."
+seo_description: "Sito per personal trainer e palestre su misura: corsi, abbonamenti e community. Pensato per personal trainer, palestre, studi di yoga e pilates. Prima consulenza gratuita."
 ---
 
-Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo **sito per personal trainer e palestre** su misura per personal trainer, palestre, studi di yoga e pilates.
+Un sito generico non basta quando lavori in un settore preciso: i tuoi clienti cercano cose precise, con parole precise. Per questo realizziamo un **sito per personal trainer e palestre** pensato per personal trainer, palestre, studi di yoga e pilates.
 
 ## Cosa include
 
