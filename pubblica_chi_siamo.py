@@ -143,7 +143,15 @@ def sez_finale(s: dict, c: dict, p: str) -> str:
             f'  <div class="{p}-cta">\n{bottoni(s.get("bottoni", []), c, p)}\n  </div>\n</div>\n')
 
 
-RENDER = {"hero": sez_hero, "numeri": sez_numeri, "griglia": sez_griglia, "finale": sez_finale}
+def sez_html(s: dict, c: dict, p: str) -> str:
+    """Sezione libera: inserisce com'e' il contenuto di un file HTML accanto allo script."""
+    f = QUI / s["file"]
+    if not f.is_file():
+        sys.exit(f"Sezione html: file mancante {f}")
+    return f.read_text(encoding="utf-8").replace("\r\n", "\n") + "\n"
+
+
+RENDER = {"html": sez_html, "hero": sez_hero, "numeri": sez_numeri, "griglia": sez_griglia, "finale": sez_finale}
 
 
 def genera(cont: dict) -> str:
@@ -157,7 +165,8 @@ def genera(cont: dict) -> str:
         if not f:
             sys.exit(f"Sezione {i}: tipo '{s.get('tipo')}' sconosciuto. Validi: {', '.join(RENDER)}")
         blocchi.append(f(s, c, p))
-    return front + css(stile) + "\n" + "\n".join(blocchi)
+    stili = "" if stile.get("senza_css") else css(stile)
+    return front + stili + "\n" + "\n".join(blocchi)
 
 
 def git(d: Path, *a: str) -> subprocess.CompletedProcess:
