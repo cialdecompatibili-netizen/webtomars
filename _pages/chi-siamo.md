@@ -3,7 +3,7 @@ layout: page
 title: chi siamo
 nav: false
 permalink: /chi-siamo/
-description: Web agency a Roma dal 2013. Strategia, siti, e-commerce, campagne e applicativi su misura.
+description: Web agency a Roma dal 2010. Strategia, siti, e-commerce, campagne e applicativi su misura.
 ---
 
 <style>
@@ -42,7 +42,7 @@ html[data-theme="dark"] .cs-num div,html[data-theme="dark"] .cs-card,html[data-t
 <div class="cs-hero">
   <span class="cs-eyebrow">Chi siamo</span>
   <h2>Trasformiamo idee e obiettivi di business in piattaforme digitali che funzionano.</h2>
-  <p>Siamo una web agency di Roma e lavoriamo dal 2013 con imprenditori, start up, grandi aziende e Pubblica Amministrazione. Non vendiamo pacchetti preconfezionati: partiamo dal tuo business, capiamo dove vuoi arrivare e costruiamo il percorso più concreto per arrivarci.</p>
+  <p>Siamo una web agency di Roma e lavoriamo dal 2010 con imprenditori, start up, grandi aziende e Pubblica Amministrazione. Non vendiamo pacchetti preconfezionati: partiamo dal tuo business, capiamo dove vuoi arrivare e costruiamo il percorso più concreto per arrivarci.</p>
   <div class="cs-cta">
 <a class="cs-btn pri" href="{{ '/contatti/' | relative_url }}">Richiedi un preventivo</a>
 <a class="cs-btn" href="{{ '/servizi/' | relative_url }}">Scopri i servizi</a>
@@ -50,12 +50,22 @@ html[data-theme="dark"] .cs-num div,html[data-theme="dark"] .cs-card,html[data-t
 </div>
 
 <div class="cs-num">
-  <div><b>Dal 2013</b><small>a Roma, sul campo</small></div>
+  <div><b>Dal 2010</b><small>a Roma, sul campo</small></div>
   <div><b>24 ore</b><small>per la nostra risposta*</small></div>
   <div><b>1° incontro</b><small>di consulenza gratuito</small></div>
   <div><b>Privato e PA</b><small>esperienza con entrambi</small></div>
 </div>
 <p class="cs-nota">*Festivi esclusi.</p>
+
+<div class="cs-sec">
+  <h2>La leggenda di webtomars: i tre gironi</h2>
+  <p class="cs-sub">Si narra che nel 2010 nascesse un sito chiamato costruiscositi.it. Il resto è una discesa a spirale, alla Dante: tre gironi, tre nomi, un solo mestiere. Non è marketing, è la realtà, e la realtà non si può cambiare. Nel mezzo del cammin di nostra impresa, ci siamo ritrovati più forti.</p>
+  <div class="cs-grid">
+    <div class="cs-card cs-step"><i>01</i><b>Primo girone: costruiscositi.it</b><p>2010. Il nome era una promessa e una dichiarazione d'intenti: costruiamo siti. Niente giri di parole, si prendeva un'idea e la si metteva online. È la regola da cui non ci siamo mai spostati.</p></div>
+    <div class="cs-card cs-step"><i>02</i><b>Secondo girone: crazyweb.it</b><p>Poi arrivò la follia, quella buona. Il nome cambia, l'ambizione cresce: progetti fuori dagli schemi, soluzioni che sembravano impossibili e che invece andavano online.</p></div>
+    <div class="cs-card cs-step"><i>03</i><b>Terzo girone: webtomars.it</b><p>L'ultima discesa è in realtà una salita: lo sguardo punta fino a Marte. Il nome è cambiato due volte, il mestiere mai. E il prossimo girone potrebbe essere il tuo progetto.</p></div>
+  </div>
+</div>
 
 <div class="cs-sec">
   <h2>Come lavoriamo</h2>

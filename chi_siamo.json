@@ -4,7 +4,7 @@
   "pagina": {
     "titolo": "chi siamo",
     "permalink": "/chi-siamo/",
-    "description": "Web agency a Roma dal 2013. Strategia, siti, e-commerce, campagne e applicativi su misura.",
+    "description": "Web agency a Roma dal 2010. Strategia, siti, e-commerce, campagne e applicativi su misura.",
     "nav": false
   },
 
@@ -29,19 +29,31 @@
       "eyebrow": "Chi siamo",
       "titolo": "Trasformiamo idee e obiettivi di business in piattaforme digitali che funzionano.",
       "paragrafi": [
-        "Siamo una web agency di Roma e lavoriamo dal 2013 con imprenditori, start up, grandi aziende e Pubblica Amministrazione. Non vendiamo pacchetti preconfezionati: partiamo dal tuo business, capiamo dove vuoi arrivare e costruiamo il percorso più concreto per arrivarci."
+        "Siamo una web agency di Roma e lavoriamo dal 2010 con imprenditori, start up, grandi aziende e Pubblica Amministrazione. Non vendiamo pacchetti preconfezionati: partiamo dal tuo business, capiamo dove vuoi arrivare e costruiamo il percorso più concreto per arrivarci."
       ],
       "bottoni": ["whatsapp", "preventivo", "servizi"]
     },
     {
       "tipo": "numeri",
       "voci": [
-        {"valore": "Dal 2013", "etichetta": "a Roma, sul campo"},
+        {"valore": "Dal 2010", "etichetta": "a Roma, sul campo"},
         {"valore": "24 ore", "etichetta": "per la nostra risposta*"},
         {"valore": "1° incontro", "etichetta": "di consulenza gratuito"},
         {"valore": "Privato e PA", "etichetta": "esperienza con entrambi"}
       ],
       "nota": "*Festivi esclusi."
+    },
+    {
+      "tipo": "griglia",
+      "titolo": "La leggenda di webtomars: i tre gironi",
+      "sottotitolo": "Si narra che nel 2010 nascesse un sito chiamato costruiscositi.it. Il resto è una discesa a spirale, alla Dante: tre gironi, tre nomi, un solo mestiere. Non è marketing, è la realtà, e la realtà non si può cambiare. Nel mezzo del cammin di nostra impresa, ci siamo ritrovati più forti.",
+      "colonne": 3,
+      "numerata": true,
+      "card": [
+        {"titolo": "Primo girone: costruiscositi.it", "testo": "2010. Il nome era una promessa e una dichiarazione d'intenti: costruiamo siti. Niente giri di parole, si prendeva un'idea e la si metteva online. È la regola da cui non ci siamo mai spostati."},
+        {"titolo": "Secondo girone: crazyweb.it", "testo": "Poi arrivò la follia, quella buona. Il nome cambia, l'ambizione cresce: progetti fuori dagli schemi, soluzioni che sembravano impossibili e che invece andavano online."},
+        {"titolo": "Terzo girone: webtomars.it", "testo": "L'ultima discesa è in realtà una salita: lo sguardo punta fino a Marte. Il nome è cambiato due volte, il mestiere mai. E il prossimo girone potrebbe essere il tuo progetto."}
+      ]
     },
     {
       "tipo": "griglia",

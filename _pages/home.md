@@ -18,7 +18,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 seo_title: "{title} - Smart Web Agency"
-seo_description: "Web agency a Roma dal 2013: siti web, e-commerce, SEO, Google Ads e brand identity su misura per imprenditori, start up e PA. Prima consulenza gratuita, risposta entro 24 ore."
+seo_description: "Web agency a Roma dal 2010: siti web, e-commerce, SEO, Google Ads e brand identity su misura per imprenditori, start up e PA. Prima consulenza gratuita, risposta entro 24 ore."
 ---
 
 <style>
@@ -84,7 +84,7 @@ html[data-theme="dark"] .prj-home-more a{border-color:rgba(255,255,255,.3)}
 <!-- ===== MARTE END (html) ===== -->
 <canvas id="rete-cv" aria-hidden="true"></canvas>
 
-## Web Agency a Roma dal 2013, al fianco della crescita del tuo business.
+## Web Agency a Roma dal 2010, al fianco della crescita del tuo business.
 
 Comunicazione, web marketing e sviluppo di piattaforme digitali: aiutiamo imprenditori, start up e grandi aziende a crescere, nel privato come nella Pubblica Amministrazione. Ogni progetto nasce da un'analisi su misura del business e degli obiettivi, combinando creatività e concretezza per ottenere risultati misurabili.
 
