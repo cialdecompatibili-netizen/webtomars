@@ -47,6 +47,15 @@ html[data-theme="dark"] .wm{--bg:#101129;--ink:#ece9fb;--mut:#a9a8c8;--acc:#8b7d
 .wm-cols{display:grid;grid-template-columns:repeat(2,1fr);gap:2rem 3rem;margin-top:2rem}
 .wm-cols h3{font-size:1.25rem;font-weight:800}
 .wm-cols p{margin-top:.35rem;color:var(--mut)}
+.wm-lav{display:grid;grid-template-columns:repeat(2,1fr);gap:1.6rem;margin-top:2rem}
+.wm-lav a{display:block;padding:1.5rem 1.6rem;border:2px solid var(--ink);border-radius:.6rem;text-decoration:none}
+.wm-lav a:hover{border-color:var(--acc)}
+.wm-lav .wm-name{font-size:clamp(1.6rem,3.6vw,2.4rem);font-weight:800;color:var(--acc)}
+.wm-lav .wm-tipo{display:block;margin-top:.3rem;font-weight:700}
+.wm-lav p{margin-top:.5rem;color:var(--mut);font-size:.97rem}
+.wm-lav .wm-vai{display:inline-block;margin-top:.9rem;font-weight:700;text-decoration:underline;text-underline-offset:.25em}
+.wm-tutti{margin-top:1.4rem}
+.wm-tutti a{font-weight:700}
 .wm-steps{display:grid;grid-template-columns:repeat(4,1fr);gap:1.4rem;margin:2rem 0 0;padding:0;list-style:none;counter-reset:s}
 .wm-steps li{counter-increment:s;padding-top:1.4rem;border-top:3px solid var(--acc);position:relative}
 .wm-steps li::before{content:counter(s);position:absolute;top:-1.15rem;left:0;background:var(--bg);padding-right:.5rem;font:800 1.1rem "Bricolage Grotesque",system-ui,sans-serif;color:var(--acc)}
@@ -64,7 +73,7 @@ html[data-theme="dark"] .wm{--bg:#101129;--ink:#ece9fb;--mut:#a9a8c8;--acc:#8b7d
 @media (max-width:860px){
   .wm-hero{grid-template-columns:1fr;padding-top:2rem}
   .wm-orbit{max-width:340px}
-  .wm-cols,.wm-per{grid-template-columns:1fr}
+  .wm-cols,.wm-per,.wm-lav{grid-template-columns:1fr}
   .wm-steps{grid-template-columns:1fr 1fr}
 }
 @media (max-width:520px){.wm-steps{grid-template-columns:1fr}}
@@ -121,6 +130,26 @@ html[data-theme="dark"] .wm{--bg:#101129;--ink:#ece9fb;--mut:#a9a8c8;--acc:#8b7d
     <div><h3>Comprano</h3><p>E-commerce pensati per vendere, dalla scelta della piattaforma alla crescita nel tempo.</p></div>
     <div><h3>Ti ricordano</h3><p>Brand identity e comunicazione coerenti, dal logo all'esperienza d'uso, per raccontare chi sei a chi conta.</p></div>
   </div>
+</section>
+
+<section class="wm-sec">
+  <h2>Lavori che puoi andare a vedere</h2>
+  <p class="wm-intro">Progetti reali, online adesso. Il modo più veloce per capire come lavoriamo.</p>
+  <div class="wm-lav">
+    <a href="{{ '/projects/florbook/' | relative_url }}">
+      <span class="wm-name">florbook</span>
+      <span class="wm-tipo">E-commerce</span>
+      <p>Negozio online dedicato alla vendita di prodotti florovivaistici.</p>
+      <span class="wm-vai">Vedi il progetto</span>
+    </a>
+    <a href="{{ '/projects/villatrecolli/' | relative_url }}">
+      <span class="wm-name">Villa Tre Colli</span>
+      <span class="wm-tipo">Sito WordPress, SEO e branding</span>
+      <p>Il sito di una villa per eventi, pensato per farsi trovare e far richiedere un preventivo.</p>
+      <span class="wm-vai">Vedi il progetto</span>
+    </a>
+  </div>
+  <p class="wm-tutti"><a href="{{ '/projects/' | relative_url }}">Tutti i progetti</a></p>
 </section>
 
 <section class="wm-sec">
