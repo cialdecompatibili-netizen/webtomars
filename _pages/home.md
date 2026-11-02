@@ -17,7 +17,7 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-seo_title: "{title} - {title}"
+seo_title: "Web agency a Roma: siti, e-commerce e SEO - {title}"
 seo_description: "Web agency a Roma dal 2010: siti web, e-commerce, SEO, Google Ads e brand identity su misura per imprenditori, start up e PA. Prima consulenza gratuita, risposta entro 24 ore."
 ---
 
