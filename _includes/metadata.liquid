@@ -75,12 +75,12 @@
   {% if seo_ttl and seo_ttl != '' %}
     {{ seo_ttl | escape }}
   {% elsif page.url == '/blog/index.html' %}
-    {{ page.title }} | {{ title }}
+    {{ page.title }} - {{ title }}
   {% elsif page.title != 'blank' and page.url != '/' %}
     {% if page.title == null or page.title == '' %}
-      {{ page.date | date: '%Y' }} | {{ title }}
+      {{ page.date | date: '%Y' }} - {{ title }}
     {% else %}
-      {{ page.title }} | {{ title }}
+      {{ page.title }} - {{ title }}
     {% endif %}
   {% else %}
     {{ title }}
@@ -123,7 +123,7 @@
   <!-- OpenGraph -->
   <meta property="og:site_name" content="{{ title }}">
   <meta property="og:type" content="{% if is_post and is_service == false %}article{% else %}website{% endif %}">
-  <meta property="og:title" content="{% if seo_ttl and seo_ttl != '' %}{{ seo_ttl | escape }}{% elsif page.title %}{{ title | strip }} | {{ page.title }}{% else %}{{ title | strip }}{% endif %}">
+  <meta property="og:title" content="{% if seo_ttl and seo_ttl != '' %}{{ seo_ttl | escape }}{% elsif page.title %}{{ page.title | escape }} - {{ title | strip }}{% else %}{{ title | strip }}{% endif %}">
   <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url | remove_first: 'index.html' }}">
   <meta property="og:description" content="{{ seo_desc }}">
   {% if page.og_image or site.og_image %}
