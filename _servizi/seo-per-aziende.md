@@ -4,7 +4,7 @@ title: SEO per aziende
 description: "SEO per aziende B2B e PMI: parole chiave ad alto intento, contenuti di settore e misurazione sulle richieste di contatto, non solo sul traffico."
 gruppo: SEO, GEO e visibilità
 ordine: 3
-seo_title: SEO per aziende e PMI - Smart Web Agency
+seo_title: SEO per aziende e PMI - {title}
 seo_description: "SEO per aziende B2B e PMI: strategia, contenuti tecnici e lead qualificati dal canale organico. Prima consulenza gratuita."
 ---
 

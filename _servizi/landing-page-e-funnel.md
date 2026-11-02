@@ -4,7 +4,7 @@ title: Landing page e funnel
 description: "Landing page e funnel progettati per portare chi arriva da pubblicità, email o ricerche a fare un'azione precisa e misurabile."
 gruppo: Sviluppo web
 ordine: 2
-seo_title: Landing page e funnel di conversione - Smart Web Agency
+seo_title: Landing page e funnel di conversione - {title}
 seo_description: "Landing page e funnel: messaggio chiaro, pagine veloci, moduli e misure per trasformare visite e campagne in contatti o vendite. Consulenza gratuita."
 ---
 

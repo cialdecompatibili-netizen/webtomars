@@ -5,7 +5,7 @@ description: "Logo, banner, colori e grafiche coordinate per canali YouTube e so
 gruppo: Creator e YouTube
 ordine: 3
 sottotitolo: "Logo, banner e grafiche del canale"
-seo_title: "Identità visiva per creator e YouTuber - Smart Web Agency"
+seo_title: "Identità visiva per creator e YouTuber - {title}"
 seo_description: "Logo, banner, colori e grafiche coordinate per creator e canali YouTube: un'immagine riconoscibile su ogni piattaforma. Consulenza gratuita."
 ---
 

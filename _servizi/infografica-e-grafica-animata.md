@@ -4,7 +4,7 @@ title: Infografica e grafica animata
 description: "Infografiche e grafica animata per spiegare dati, processi e idee complesse in modo chiaro, per sito, presentazioni e social."
 gruppo: Social e contenuti
 ordine: 6
-seo_title: "Infografica e grafica animata - Smart Web Agency"
+seo_title: "Infografica e grafica animata - {title}"
 seo_description: "Infografiche e animazioni grafiche per spiegare dati e processi: progettazione, grafica coerente col marchio e formati per sito, social e presentazioni."
 ---
 

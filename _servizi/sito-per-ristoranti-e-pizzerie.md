@@ -5,7 +5,7 @@ description: "Sito per ristoranti e pizzerie su misura: menu, prenotazioni e ord
 gruppo: Siti su misura per nicchia
 ordine: 26
 sottotitolo: "Menu, prenotazioni e ordini"
-seo_title: Sito per ristoranti e pizzerie - Smart Web Agency
+seo_title: Sito per ristoranti e pizzerie - {title}
 seo_description: "Sito per ristoranti e pizzerie su misura: menu, prenotazioni e ordini. Pensato per ristoranti, pizzerie, trattorie e locali. Prima consulenza gratuita."
 ---
 

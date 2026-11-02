@@ -5,7 +5,7 @@ description: "Sito per notai su misura: un sito sobrio per lo studio. Pensato pe
 gruppo: Siti su misura per nicchia
 ordine: 35
 sottotitolo: Un sito sobrio per lo studio
-seo_title: Sito per notai - Smart Web Agency
+seo_title: Sito per notai - {title}
 seo_description: "Sito per notai su misura: un sito sobrio per lo studio. Pensato per notai e studi notarili. Prima consulenza gratuita."
 ---
 

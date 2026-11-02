@@ -5,7 +5,7 @@ description: "Sito per agenti immobiliari su misura: annunci, zone e contatti. P
 gruppo: Siti su misura per nicchia
 ordine: 10
 sottotitolo: "Annunci, zone e contatti"
-seo_title: Sito per agenti immobiliari - Smart Web Agency
+seo_title: Sito per agenti immobiliari - {title}
 seo_description: "Sito per agenti immobiliari su misura: annunci, zone e contatti. Pensato per agenti immobiliari, agenzie e consulenti. Prima consulenza gratuita."
 ---
 

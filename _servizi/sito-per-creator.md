@@ -5,7 +5,7 @@ description: "Sito personale per creator: vetrina, newsletter, vendita di corsi 
 gruppo: Creator e YouTube
 ordine: 6
 sottotitolo: "Sito, newsletter e vendita"
-seo_title: Sito web per creator e YouTuber - Smart Web Agency
+seo_title: Sito web per creator e YouTuber - {title}
 seo_description: "Sito personale per creator: vetrina, newsletter, vendita di corsi e prodotti e pagina per gli sponsor. Un punto di arrivo che resta tuo. Consulenza gratuita."
 ---
 

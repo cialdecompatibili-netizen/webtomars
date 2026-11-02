@@ -5,7 +5,7 @@ description: "Sito per psicologi e psicoterapeuti su misura: un primo contatto s
 gruppo: Siti su misura per nicchia
 ordine: 30
 sottotitolo: Un primo contatto sobrio e riservato
-seo_title: Sito per psicologi e psicoterapeuti - Smart Web Agency
+seo_title: Sito per psicologi e psicoterapeuti - {title}
 seo_description: "Sito per psicologi e psicoterapeuti su misura: un primo contatto sobrio e riservato. Pensato per psicologi, psicoterapeuti e centri di consulenza. Prima consulenza gratuita."
 ---
 

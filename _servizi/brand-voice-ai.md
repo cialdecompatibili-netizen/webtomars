@@ -4,7 +4,7 @@ title: Brand voice AI
 description: "Brand voice AI: una guida scritta al tono del tuo marchio e istruzioni per usarla con gli strumenti di intelligenza artificiale."
 gruppo: AI e automazione
 ordine: 12
-seo_title: Brand voice AI per testi coerenti - Smart Web Agency
+seo_title: Brand voice AI per testi coerenti - {title}
 seo_description: "Brand voice AI: guida al tono del marchio e istruzioni per strumenti AI, per testi coerenti su sito, email e social. Consulenza gratuita."
 ---
 

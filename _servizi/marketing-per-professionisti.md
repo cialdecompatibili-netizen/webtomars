@@ -4,7 +4,7 @@ title: Marketing per professionisti
 description: "Marketing per professionisti: sito, scheda su Google, contenuti e contatti per studi e liberi professionisti, nel rispetto delle regole di categoria."
 gruppo: Settori verticali
 ordine: 2
-seo_title: "Marketing per professionisti e studi - Smart Web Agency"
+seo_title: "Marketing per professionisti e studi - {title}"
 seo_description: "Marketing per studi e liberi professionisti: sito chiaro, SEO locale, contenuti utili e richieste di contatto, nel rispetto dei codici deontologici."
 ---
 

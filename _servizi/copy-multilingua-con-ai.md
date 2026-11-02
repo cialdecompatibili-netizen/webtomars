@@ -4,7 +4,7 @@ title: Copy multilingua con AI
 description: "Testi in più lingue prodotti con l'AI e rivisti da una persona, adattati al pubblico di ogni paese e coerenti con il tuo marchio."
 gruppo: AI e automazione
 ordine: 11
-seo_title: Copy multilingua con AI e revisione - Smart Web Agency
+seo_title: Copy multilingua con AI e revisione - {title}
 seo_description: "Copy multilingua con AI: testi adattati per sito, schede prodotto ed email in più lingue, con glossario e revisione umana. Consulenza gratuita."
 ---
 

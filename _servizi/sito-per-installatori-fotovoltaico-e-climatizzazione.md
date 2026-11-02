@@ -5,7 +5,7 @@ description: "Sito per installatori di fotovoltaico e climatizzazione su misura:
 gruppo: Siti su misura per nicchia
 ordine: 6
 sottotitolo: "Impianti, preventivi e zone servite"
-seo_title: Sito per installatori di fotovoltaico e climatizzazione - Smart Web Agency
+seo_title: Sito per installatori di fotovoltaico e climatizzazione - {title}
 seo_description: "Sito per installatori di fotovoltaico e climatizzazione su misura: impianti, preventivi e zone servite. Pensato per installatori di fotovoltaico, climatizzatori, caldaie e impianti. Prima consulenza gratuita."
 ---
 

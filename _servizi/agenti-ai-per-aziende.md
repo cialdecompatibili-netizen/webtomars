@@ -4,7 +4,7 @@ title: Agenti AI per aziende
 description: "Agenti AI su misura per le aziende: assistenza clienti, vendite e operazioni interne, con dati sotto controllo, conferma umana nelle azioni importanti e trasparenza prevista dall'AI Act."
 gruppo: AI e automazione
 ordine: 1
-seo_title: Agenti AI per aziende su misura - Smart Web Agency
+seo_title: Agenti AI per aziende su misura - {title}
 seo_description: "Agenti AI per aziende: assistenza clienti, vendite e processi interni, con permessi limitati, approvazione umana e informativa sull'AI come da AI Act. Consulenza gratuita."
 ---
 

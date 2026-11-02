@@ -4,7 +4,7 @@ title: UI/UX design
 description: "UI/UX design: studio dell'esperienza d'uso e dell'interfaccia di siti e applicazioni, con prove su utenti reali."
 gruppo: Design e brand
 ordine: 3
-seo_title: "UI/UX design di siti e applicazioni - Smart Web Agency"
+seo_title: "UI/UX design di siti e applicazioni - {title}"
 seo_description: "UI/UX design: analisi degli utenti, flussi, prototipi cliccabili e interfacce chiare per siti, e-commerce e app. Prima consulenza gratuita."
 ---
 

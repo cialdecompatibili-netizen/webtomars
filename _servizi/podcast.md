@@ -4,7 +4,7 @@ title: Podcast
 description: "Podcast per il tuo brand: formato, registrazione, montaggio, pubblicazione e riutilizzo degli episodi su sito e social."
 gruppo: Social e contenuti
 ordine: 8
-seo_title: "Podcast aziendale: produzione e strategia - Smart Web Agency"
+seo_title: "Podcast aziendale: produzione e strategia - {title}"
 seo_description: "Podcast per brand e professionisti: idea del format, registrazione, montaggio, pubblicazione sulle piattaforme e riutilizzo dei contenuti. Consulenza gratuita."
 ---
 

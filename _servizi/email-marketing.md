@@ -5,7 +5,7 @@ description: "Email marketing: newsletter, DEM e sequenze automatiche per restar
 gruppo: Social e contenuti
 ordine: 4
 sottotitolo: DEM, newsletter, automation
-seo_title: "Email marketing: newsletter e DEM - Smart Web Agency"
+seo_title: "Email marketing: newsletter e DEM - {title}"
 seo_description: "Email marketing per aziende: newsletter, campagne DEM, sequenze automatiche e liste in regola con consenso e privacy. Prima consulenza gratuita."
 ---
 

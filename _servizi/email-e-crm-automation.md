@@ -4,7 +4,7 @@ title: Email e CRM automation
 description: "Automazioni email e CRM: contatti in ordine, sequenze che partono al momento giusto, solleciti e recupero clienti, con consenso e privacy impostati fin dall'inizio."
 gruppo: AI e automazione
 ordine: 8
-seo_title: Email e CRM automation per aziende - Smart Web Agency
+seo_title: Email e CRM automation per aziende - {title}
 seo_description: "Email marketing e CRM automation: sequenze automatiche, solleciti, recupero carrelli e clienti inattivi, con consenso e privacy a posto. Consulenza gratuita."
 ---
 

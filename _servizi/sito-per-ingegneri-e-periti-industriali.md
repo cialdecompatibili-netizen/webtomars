@@ -5,7 +5,7 @@ description: "Sito per ingegneri e periti industriali su misura: competenze tecn
 gruppo: Siti su misura per nicchia
 ordine: 7
 sottotitolo: Competenze tecniche spiegate bene
-seo_title: Sito per ingegneri e periti industriali - Smart Web Agency
+seo_title: Sito per ingegneri e periti industriali - {title}
 seo_description: "Sito per ingegneri e periti industriali su misura: competenze tecniche spiegate bene. Pensato per ingegneri, periti industriali e studi di ingegneria. Prima consulenza gratuita."
 ---
 

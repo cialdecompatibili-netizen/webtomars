@@ -5,7 +5,7 @@ description: "Newsletter per creator: impostazione, grafica, scrittura delle edi
 gruppo: Creator e YouTube
 ordine: 11
 sottotitolo: "Impostazione, grafica e scrittura"
-seo_title: Newsletter per creator e YouTuber - Smart Web Agency
+seo_title: Newsletter per creator e YouTuber - {title}
 seo_description: "Impostiamo e gestiamo la newsletter del tuo canale: modulo, grafica, scrittura e invio. La lista resta tua. Consulenza gratuita."
 ---
 

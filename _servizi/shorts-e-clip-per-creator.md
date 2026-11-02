@@ -5,7 +5,7 @@ description: "Clip verticali dai tuoi video lunghi per YouTube Shorts, Reel e Ti
 gruppo: Creator e YouTube
 ordine: 4
 sottotitolo: "Shorts, Reel e TikTok"
-seo_title: "Shorts, Reel e TikTok per creator - Smart Web Agency"
+seo_title: "Shorts, Reel e TikTok per creator - {title}"
 seo_description: "Trasformiamo i tuoi video lunghi in clip verticali per YouTube Shorts, Instagram Reel e TikTok: montaggio, sottotitoli e testi pronti. Consulenza gratuita."
 ---
 

@@ -5,7 +5,7 @@ description: "Sito per sviluppatori e consulenti IT su misura: competenze e prog
 gruppo: Siti su misura per nicchia
 ordine: 8
 sottotitolo: Competenze e progetti in evidenza
-seo_title: Sito per sviluppatori e consulenti IT - Smart Web Agency
+seo_title: Sito per sviluppatori e consulenti IT - {title}
 seo_description: "Sito per sviluppatori e consulenti IT su misura: competenze e progetti in evidenza. Pensato per sviluppatori freelance, consulenti IT e software house. Prima consulenza gratuita."
 ---
 

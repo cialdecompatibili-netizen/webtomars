@@ -4,7 +4,7 @@ title: Video marketing
 description: "Video marketing: idee, riprese, montaggio e distribuzione di video per presentare marchio, prodotti e servizi sui canali giusti."
 gruppo: Social e contenuti
 ordine: 5
-seo_title: "Video marketing per aziende - Smart Web Agency"
+seo_title: "Video marketing per aziende - {title}"
 seo_description: "Video marketing: strategia, sceneggiatura, montaggio e diffusione di video aziendali, presentazioni di prodotto e contenuti per social e sito."
 ---
 

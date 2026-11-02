@@ -5,7 +5,7 @@ description: "Sito per coach e formatori su misura: il tuo percorso, presentato 
 gruppo: Siti su misura per nicchia
 ordine: 18
 sottotitolo: Il tuo percorso, presentato con chiarezza
-seo_title: Sito per coach e formatori - Smart Web Agency
+seo_title: Sito per coach e formatori - {title}
 seo_description: "Sito per coach e formatori su misura: il tuo percorso, presentato con chiarezza. Pensato per coach, formatori e consulenti di crescita personale e professionale. Prima consulenza gratuita."
 ---
 

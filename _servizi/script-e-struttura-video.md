@@ -5,7 +5,7 @@ description: "Script per video YouTube e short: hook, struttura, invito finale, 
 gruppo: Creator e YouTube
 ordine: 8
 sottotitolo: "Hook, sviluppo e invito finale"
-seo_title: Script per video YouTube e short con hook - Smart Web Agency
+seo_title: Script per video YouTube e short con hook - {title}
 seo_description: "Script per YouTube, Shorts e Reel con hook, struttura e invito finale, controllati da una persona. Pronti da girare. Consulenza gratuita."
 ---
 

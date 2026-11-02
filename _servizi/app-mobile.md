@@ -5,7 +5,7 @@ description: "App mobile per iOS e Android: dall'idea al rilascio negli store, c
 gruppo: Software e applicazioni
 ordine: 1
 sottotitolo: iOS e Android
-seo_title: "Sviluppo app mobile iOS e Android - Smart Web Agency"
+seo_title: "Sviluppo app mobile iOS e Android - {title}"
 seo_description: "Sviluppo di app mobile per iOS e Android: analisi, progetto, realizzazione, pubblicazione negli store e manutenzione. Prima consulenza gratuita."
 ---
 

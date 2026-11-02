@@ -4,7 +4,7 @@ title: Frontend editing
 description: "Modifiche mirate al frontend del sito: grafica, layout, nuove sezioni e correzioni per desktop e mobile, senza rifare tutto."
 gruppo: Sviluppo web
 ordine: 9
-seo_title: "Frontend editing: modifiche al sito web - Smart Web Agency"
+seo_title: "Frontend editing: modifiche al sito web - {title}"
 seo_description: "Frontend editing: correzioni grafiche, nuove sezioni e interventi responsive su siti esistenti, senza rifare tutto il sito. Consulenza gratuita."
 ---
 

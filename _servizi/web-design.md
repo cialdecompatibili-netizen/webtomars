@@ -4,7 +4,7 @@ title: Web design
 description: "Web design: progettazione grafica di siti chiari, veloci da usare e coerenti con il tuo marchio, anche da mobile."
 gruppo: Design e brand
 ordine: 2
-seo_title: "Web design per aziende e professionisti - Smart Web Agency"
+seo_title: "Web design per aziende e professionisti - {title}"
 seo_description: "Web design su misura: struttura delle pagine, grafica coerente col marchio, usabilità da mobile e attenzione alla velocità. Prima consulenza gratuita."
 ---
 

@@ -4,7 +4,7 @@ title: Audit SEO del sito
 description: "Audit SEO del sito: indicizzazione, struttura, velocità, concorrenti e un elenco chiaro di interventi in ordine di priorità, scritto in italiano semplice."
 gruppo: SEO, GEO e visibilità
 ordine: 2
-seo_title: Audit SEO del sito web - Smart Web Agency
+seo_title: Audit SEO del sito web - {title}
 seo_description: "Audit SEO completo: indicizzazione, contenuti, Core Web Vitals e concorrenti, con un report in italiano e interventi in ordine di priorità. Consulenza gratuita."
 ---
 

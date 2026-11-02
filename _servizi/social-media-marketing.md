@@ -5,7 +5,7 @@ description: "Social media marketing: strategia, piano editoriale, pubblicazione
 in_home: true
 gruppo: Social e contenuti
 ordine: 1
-seo_title: "Social media marketing e gestione profili - Smart Web Agency"
+seo_title: "Social media marketing e gestione profili - {title}"
 seo_description: "Social media marketing: scelta dei canali, piano editoriale, contenuti, gestione dei profili e analisi dei risultati. Prima consulenza gratuita."
 ---
 

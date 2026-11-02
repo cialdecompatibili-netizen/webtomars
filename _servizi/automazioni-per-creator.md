@@ -5,7 +5,7 @@ description: "Flussi automatici per creator: trascrizioni, clip, testi, organizz
 gruppo: Creator e YouTube
 ordine: 12
 sottotitolo: "Trascrizioni, clip e pubblicazione"
-seo_title: Automazioni per creator e YouTuber - Smart Web Agency
+seo_title: Automazioni per creator e YouTuber - {title}
 seo_description: "Flussi automatici per creator: trascrizioni, clip, testi e report, con controllo umano. Meno lavoro ripetitivo, più tempo per i contenuti. Consulenza gratuita."
 ---
 

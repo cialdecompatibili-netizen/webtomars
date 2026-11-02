@@ -5,7 +5,7 @@ description: "Sito per dentisti e studi medici su misura: trasparenza e prenotaz
 gruppo: Siti su misura per nicchia
 ordine: 3
 sottotitolo: Trasparenza e prenotazione visite
-seo_title: Sito per dentisti e studi medici - Smart Web Agency
+seo_title: Sito per dentisti e studi medici - {title}
 seo_description: "Sito per dentisti e studi medici su misura: trasparenza e prenotazione visite. Pensato per dentisti, medici e studi sanitari. Prima consulenza gratuita."
 ---
 

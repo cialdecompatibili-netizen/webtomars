@@ -4,7 +4,7 @@ title: CRO con AI
 description: "CRO con AI: analisi dei dati, ipotesi e test controllati per trasformare più visitatori del tuo sito in richieste o acquisti."
 gruppo: AI e automazione
 ordine: 15
-seo_title: CRO con AI per aumentare le conversioni - Smart Web Agency
+seo_title: CRO con AI per aumentare le conversioni - {title}
 seo_description: "CRO con AI: analisi del percorso, test controllati e miglioramento di pagine e funnel per ottenere più richieste o vendite dal sito. Consulenza gratuita."
 ---
 

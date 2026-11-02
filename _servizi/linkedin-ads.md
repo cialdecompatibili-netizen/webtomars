@@ -5,7 +5,7 @@ description: "Campagne LinkedIn Ads per aziende B2B: pubblici per ruolo, settore
 gruppo: Advertising (PPC)
 ordine: 4
 sottotitolo: B2B
-seo_title: LinkedIn Ads per aziende B2B - Smart Web Agency
+seo_title: LinkedIn Ads per aziende B2B - {title}
 seo_description: "Gestione campagne LinkedIn Ads B2B: targeting per ruolo e settore, Lead Gen Form, retargeting e report sulla qualità dei contatti. Analisi gratuita."
 ---
 

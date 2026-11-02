@@ -5,7 +5,7 @@ description: "Consulenza SEO a Roma: audit tecnico, strategia delle parole chiav
 in_home: true
 gruppo: SEO, GEO e visibilità
 ordine: 1
-seo_title: Consulenza SEO a Roma - Smart Web Agency
+seo_title: Consulenza SEO a Roma - {title}
 seo_description: "Consulenza SEO per aziende e professionisti: audit del sito, parole chiave, contenuti e report chiari. Parti da un'analisi gratuita."
 ---
 

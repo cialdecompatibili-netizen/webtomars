@@ -4,7 +4,7 @@ title: Personalizzazione 1-to-1
 description: "Personalizzazione 1 to 1: contenuti, offerte ed email adattati al comportamento di ogni cliente, nel rispetto della privacy."
 gruppo: AI e automazione
 ordine: 13
-seo_title: Personalizzazione 1 to 1 con AI - Smart Web Agency
+seo_title: Personalizzazione 1 to 1 con AI - {title}
 seo_description: "Personalizzazione 1 to 1: segmenti, contenuti ed email adattati a ogni cliente con AI, nel rispetto di privacy e consenso. Consulenza gratuita."
 ---
 

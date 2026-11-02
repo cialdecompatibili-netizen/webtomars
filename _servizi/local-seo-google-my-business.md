@@ -4,7 +4,7 @@ title: Local SEO / Google My Business
 description: "Local SEO e Google Business Profile: scheda curata, recensioni, pagine locali e dati coerenti per farti trovare da chi cerca vicino a te."
 gruppo: SEO, GEO e visibilità
 ordine: 5
-seo_title: Local SEO e Google Business Profile - Smart Web Agency
+seo_title: Local SEO e Google Business Profile - {title}
 seo_description: "Cura della scheda Google Business Profile, recensioni, pagine locali e dati coerenti per essere trovato da chi cerca vicino. Consulenza gratuita."
 ---
 

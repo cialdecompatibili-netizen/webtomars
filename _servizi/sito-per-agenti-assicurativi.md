@@ -5,7 +5,7 @@ description: "Sito per agenti assicurativi su misura: un punto di contatto chiar
 gruppo: Siti su misura per nicchia
 ordine: 9
 sottotitolo: Un punto di contatto chiaro per i tuoi clienti
-seo_title: Sito per agenti assicurativi - Smart Web Agency
+seo_title: Sito per agenti assicurativi - {title}
 seo_description: "Sito per agenti assicurativi su misura: un punto di contatto chiaro per i tuoi clienti. Pensato per agenti assicurativi e agenzie di assicurazione. Prima consulenza gratuita."
 ---
 

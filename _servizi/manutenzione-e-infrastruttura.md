@@ -4,7 +4,7 @@ title: Manutenzione e infrastruttura
 description: "Manutenzione del sito web: aggiornamenti, backup, sicurezza, monitoraggio e assistenza per tenere il sito veloce e protetto."
 gruppo: Sviluppo web
 ordine: 11
-seo_title: Manutenzione sito web e assistenza - Smart Web Agency
+seo_title: Manutenzione sito web e assistenza - {title}
 seo_description: "Manutenzione sito web: aggiornamenti controllati, backup, sicurezza, monitoraggio e assistenza tecnica per siti WordPress e su misura. Consulenza gratuita."
 ---
 

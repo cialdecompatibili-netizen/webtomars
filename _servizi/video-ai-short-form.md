@@ -5,7 +5,7 @@ description: "Video brevi con l'aiuto dell'AI: clip da contenuti lunghi, sottoti
 gruppo: AI e automazione
 ordine: 9
 sottotitolo: Reel, TikTok, Shorts
-seo_title: Video AI short form per Reel e Shorts - Smart Web Agency
+seo_title: Video AI short form per Reel e Shorts - {title}
 seo_description: "Video AI short form: clip per Reel, Shorts e TikTok da video lunghi, con sottotitoli, testi e controllo umano. Consulenza gratuita."
 ---
 

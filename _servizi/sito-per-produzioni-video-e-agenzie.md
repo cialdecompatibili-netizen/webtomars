@@ -5,7 +5,7 @@ description: "Sito per produzioni video e agenzie su misura: il tuo portfolio in
 gruppo: Siti su misura per nicchia
 ordine: 17
 sottotitolo: Il tuo portfolio in primo piano
-seo_title: Sito per produzioni video e agenzie - Smart Web Agency
+seo_title: Sito per produzioni video e agenzie - {title}
 seo_description: "Sito per produzioni video e agenzie su misura: il tuo portfolio in primo piano. Pensato per produzioni video, case di produzione e agenzie creative. Prima consulenza gratuita."
 ---
 

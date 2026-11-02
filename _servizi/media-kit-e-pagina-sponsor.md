@@ -5,7 +5,7 @@ description: "Media kit in PDF e pagina sponsor per creator: canale, pubblico e 
 gruppo: Creator e YouTube
 ordine: 13
 sottotitolo: Per collaborare con i marchi
-seo_title: Media kit e pagina sponsor per creator - Smart Web Agency
+seo_title: Media kit e pagina sponsor per creator - {title}
 seo_description: "Media kit in PDF e pagina sponsor per creator: presenta canale, pubblico e collaborazioni ai marchi in modo professionale. Consulenza gratuita."
 ---
 

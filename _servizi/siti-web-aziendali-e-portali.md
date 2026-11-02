@@ -5,7 +5,7 @@ description: "Siti web aziendali e portali su misura: veloci, accessibili, in re
 in_home: true
 gruppo: Sviluppo web
 ordine: 1
-seo_title: Siti web aziendali e portali su misura - Smart Web Agency
+seo_title: Siti web aziendali e portali su misura - {title}
 seo_description: "Realizzazione di siti web aziendali e portali: velocità misurata sui Core Web Vitals, accessibilità WCAG, cookie a norma e aggiornamento autonomo."
 ---
 

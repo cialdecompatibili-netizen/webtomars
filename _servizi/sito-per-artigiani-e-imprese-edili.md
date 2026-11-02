@@ -5,7 +5,7 @@ description: "Sito per artigiani e imprese edili su misura: lavori, zone servite
 gruppo: Siti su misura per nicchia
 ordine: 14
 sottotitolo: "Lavori, zone servite e preventivi"
-seo_title: Sito per artigiani e imprese edili - Smart Web Agency
+seo_title: Sito per artigiani e imprese edili - {title}
 seo_description: "Sito per artigiani e imprese edili su misura: lavori, zone servite e preventivi. Pensato per idraulici, elettricisti, imprese edili e artigiani. Prima consulenza gratuita."
 ---
 

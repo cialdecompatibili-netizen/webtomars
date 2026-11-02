@@ -6,7 +6,7 @@ in_home: true
 gruppo: Sviluppo web
 ordine: 4
 sottotitolo: Shopify, WooCommerce, Magento, PrestaShop
-seo_title: Sviluppo eCommerce e negozi online - Smart Web Agency
+seo_title: Sviluppo eCommerce e negozi online - {title}
 seo_description: "Sviluppo di siti e-commerce su Shopify, WooCommerce, PrestaShop e Magento: negozi veloci, facili da gestire e ottimizzati per Google. Consulenza gratuita."
 ---
 

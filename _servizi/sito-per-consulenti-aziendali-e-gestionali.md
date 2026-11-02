@@ -5,7 +5,7 @@ description: "Sito per consulenti aziendali e gestionali su misura: il tuo metod
 gruppo: Siti su misura per nicchia
 ordine: 12
 sottotitolo: Il tuo metodo, in modo credibile
-seo_title: Sito per consulenti aziendali e gestionali - Smart Web Agency
+seo_title: Sito per consulenti aziendali e gestionali - {title}
 seo_description: "Sito per consulenti aziendali e gestionali su misura: il tuo metodo, in modo credibile. Pensato per consulenti aziendali, gestionali e formatori. Prima consulenza gratuita."
 ---
 

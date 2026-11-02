@@ -4,7 +4,7 @@ title: Chatbot e assistenti virtuali
 description: "Chatbot e assistenti virtuali costruiti sui tuoi contenuti: rispondono alle domande ricorrenti e passano a una persona quando serve."
 gruppo: AI e automazione
 ordine: 5
-seo_title: Chatbot e assistenti virtuali per aziende - Smart Web Agency
+seo_title: Chatbot e assistenti virtuali per aziende - {title}
 seo_description: "Chatbot e assistenti virtuali per siti e negozi online: risposte basate sui tuoi contenuti, passaggio a un operatore e trasparenza AI Act. Consulenza gratuita."
 ---
 

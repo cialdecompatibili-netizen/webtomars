@@ -5,7 +5,7 @@ description: "Sito per personal trainer e palestre su misura: corsi, abbonamenti
 gruppo: Siti su misura per nicchia
 ordine: 28
 sottotitolo: "Corsi, abbonamenti e community"
-seo_title: Sito per personal trainer e palestre - Smart Web Agency
+seo_title: Sito per personal trainer e palestre - {title}
 seo_description: "Sito per personal trainer e palestre su misura: corsi, abbonamenti e community. Pensato per personal trainer, palestre, studi di yoga e pilates. Prima consulenza gratuita."
 ---
 

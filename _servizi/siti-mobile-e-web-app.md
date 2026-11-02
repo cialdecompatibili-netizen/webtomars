@@ -4,7 +4,7 @@ title: Siti mobile e web app
 description: "Siti mobile-first e web app che funzionano dal browser: veloci, semplici da usare e collegati ai tuoi sistemi."
 gruppo: Sviluppo web
 ordine: 7
-seo_title: Siti mobile e web app su misura - Smart Web Agency
+seo_title: Siti mobile e web app su misura - {title}
 seo_description: "Siti mobile-first e web app su misura: prenotazioni, aree riservate e gestione online, veloci e senza bisogno di scaricare un'app. Consulenza gratuita."
 ---
 

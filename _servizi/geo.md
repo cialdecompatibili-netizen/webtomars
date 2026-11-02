@@ -5,7 +5,7 @@ description: "GEO per far citare la tua azienda da ChatGPT, Gemini, Perplexity e
 gruppo: SEO, GEO e visibilità
 ordine: 6
 sottotitolo: ChatGPT, Gemini, Perplexity
-seo_title: "GEO: farsi citare da ChatGPT, Gemini e AI - Smart Web Agency"
+seo_title: "GEO: farsi citare da ChatGPT, Gemini e AI - {title}"
 seo_description: "GEO (Generative Engine Optimization): contenuti, coerenza del brand e tecnica per comparire nelle risposte di ChatGPT, Gemini, Perplexity e Google AI."
 ---
 

@@ -5,7 +5,7 @@ description: "Sito per avvocati e studi legali su misura: autorevolezza e richie
 gruppo: Siti su misura per nicchia
 ordine: 2
 sottotitolo: Autorevolezza e richieste di consulenza
-seo_title: Sito per avvocati e studi legali - Smart Web Agency
+seo_title: Sito per avvocati e studi legali - {title}
 seo_description: "Sito per avvocati e studi legali su misura: autorevolezza e richieste di consulenza. Pensato per avvocati, studi legali e consulenti. Prima consulenza gratuita."
 ---
 

@@ -5,7 +5,7 @@ description: "Sito per architetti e studi tecnici su misura: progetti e credibil
 gruppo: Siti su misura per nicchia
 ordine: 15
 sottotitolo: "Progetti e credibilità professionale"
-seo_title: Sito per architetti e studi tecnici - Smart Web Agency
+seo_title: Sito per architetti e studi tecnici - {title}
 seo_description: "Sito per architetti e studi tecnici su misura: progetti e credibilità professionale. Pensato per architetti, geometri, ingegneri e studi tecnici. Prima consulenza gratuita."
 ---
 

@@ -5,7 +5,7 @@ description: "Montaggio video per YouTuber e creator: tagli, sottotitoli, grafic
 gruppo: Creator e YouTube
 ordine: 2
 sottotitolo: "YouTube, podcast e video aziendali"
-seo_title: Montaggio video per YouTuber e creator - Smart Web Agency
+seo_title: Montaggio video per YouTuber e creator - {title}
 seo_description: "Montaggio video per creator e canali YouTube: tagli, sottotitoli, intro, outro e stile coerente. Ricevi video pronti da pubblicare. Consulenza gratuita."
 ---
 
