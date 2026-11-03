@@ -53,6 +53,24 @@ Contenuti e struttura non bastano se nessuno parla di te. Menzioni e collegament
 
 Vale anche per l'e-commerce B2B con cataloghi ampi o listini riservati: le ricerche sono meno numerose ma di altissimo valore, e si possono intercettare anche senza mostrare i prezzi.
 
+## Checklist rapida
+
+- Ogni categoria importante ha un titolo, un testo breve e un indirizzo chiari.
+- Le schede dei prodotti più venduti hanno testi originali, immagini ottimizzate e dati strutturati.
+- I filtri non generano migliaia di pagine indicizzabili inutili.
+- I prodotti esauriti hanno una regola precisa: pagina mantenuta o reindirizzamento.
+- Il negozio si carica in fretta da mobile.
+- Le guide e il blog rimandano alle categorie che vuoi spingere.
+- Segui visite organiche, ordini e ricavi per pagina, non solo le posizioni.
+
+## Domande frequenti
+
+**Quanto tempo serve per vedere i risultati?** Di solito mesi, non settimane: le pagine devono essere lette e guadagnare posizioni. Gli annunci portano visite subito, la SEO costruisce nel tempo.
+
+**La SEO per e-commerce è diversa da quella di un sito normale?** Sì: ci sono molte pagine simili, filtri, varianti e prodotti che escono dal catalogo, e vanno gestiti con regole precise.
+
+**Conviene fare SEO su Shopify, WooCommerce o PrestaShop?** Su tutte si può lavorare bene. Cambiano strumenti e limiti (indirizzi, filtri, campi disponibili), non l'impostazione di fondo.
+
 ## Da dove partire: un audit
 
-Il primo passo è sempre una verifica: struttura del catalogo, contenuti duplicati, velocità, URL canonici, parole chiave su cui i concorrenti si posizionano e tu no. Ti dice cosa sistemare per primo e dove il rendimento è più alto. Se vuoi un parere sul tuo negozio, la **prima consulenza è gratuita** e rispondiamo entro 24 ore.
+Il primo passo è sempre una verifica: struttura del catalogo, contenuti duplicati, velocità, URL canonici, parole chiave su cui i concorrenti si posizionano e tu no. Ti dice cosa sistemare per primo e dove il rendimento è più alto. Se vuoi un parere sul tuo negozio, la **prima consulenza è gratuita** e rispondiamo entro 24 ore. Trovi i dettagli del servizio in [SEO per eCommerce]({{ '/servizi/seo-per-ecommerce/' | relative_url }}); se prima vuoi un quadro più ampio su vendite e margini, c'è la [consulenza eCommerce]({{ '/servizi/consulenza-ecommerce/' | relative_url }}).
