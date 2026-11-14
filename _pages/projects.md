@@ -2,7 +2,7 @@
 layout: page
 title: Progetti
 permalink: /projects/
-description: Una collezione in crescita dei tuoi progetti più interessanti.
+description: I progetti realizzati da webtomars: e-commerce, siti per aziende e strutture ricettive.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -19,6 +19,10 @@ horizontal: false
 .projects .card .card-text,.projects .card p{color:#3a4552;font-size:.94rem;line-height:1.5}
 @media (prefers-reduced-motion:reduce){.projects .card{transition:none}.projects .card:hover{transform:none}}
 </style>
+
+<p class="lead">Ogni progetto parte da un obiettivo di business, non da un modello di sito: capiamo cosa deve ottenere il cliente, progettiamo l'esperienza di chi visita, costruiamo e pubblichiamo, poi misuriamo e miglioriamo. Qui sotto una selezione dei lavori realizzati per e-commerce, aziende di servizi e strutture ricettive.</p>
+
+<p>Per ogni progetto ci occupiamo di <strong>strategia, design, sviluppo, contenuti, visibilità sui motori di ricerca e assistenza continua</strong>: un unico interlocutore dall'idea alla crescita.</p>
 
 <!-- pages/projects.md -->
 <div class="projects">
