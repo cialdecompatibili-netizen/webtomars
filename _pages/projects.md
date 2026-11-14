@@ -2,7 +2,7 @@
 layout: page
 title: Progetti
 permalink: /projects/
-description: I progetti realizzati da webtomars: e-commerce, siti per aziende e strutture ricettive.
+description: "I progetti realizzati da webtomars - e-commerce, siti per aziende e strutture ricettive."
 nav: true
 nav_order: 3
 display_categories: [work, fun]
