@@ -4,6 +4,7 @@ title: AI Commerce
 description: "AI per ecommerce: schede prodotto, ricerca, assistenza clienti e analisi dei dati, con controllo umano e senza promesse irrealistiche."
 gruppo: AI e automazione
 ordine: 14
+sottotitolo: Schede prodotto, ricerca e assistenza clienti
 seo_title: AI commerce per negozi online - {title}
 seo_description: "AI commerce: schede prodotto, ricerca, assistenza clienti e analisi per negozi online su Shopify, WooCommerce, PrestaShop e Magento. Consulenza gratuita."
 ---

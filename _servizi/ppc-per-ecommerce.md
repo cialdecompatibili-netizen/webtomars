@@ -4,6 +4,7 @@ title: PPC per eCommerce
 description: "Gestione PPC per negozi online: Google Shopping, Performance Max e campagne social coordinate, con tracciamento delle vendite e controllo del costo per ordine."
 gruppo: Advertising (PPC)
 ordine: 5
+sottotitolo: Shopping, Performance Max e social
 seo_title: "PPC per e-commerce: Shopping, Meta e TikTok"
 seo_description: "Gestione campagne PPC per e-commerce: Google Shopping, Performance Max, Meta e TikTok con un unico piano di budget e report sulle vendite reali."
 ---

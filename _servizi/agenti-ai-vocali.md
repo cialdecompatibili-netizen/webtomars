@@ -4,6 +4,7 @@ title: Agenti AI vocali
 description: "Agenti AI vocali che rispondono alle chiamate, fissano appuntamenti, raccolgono i dati per richiamare e passano la telefonata a una persona quando serve."
 gruppo: AI e automazione
 ordine: 4
+sottotitolo: Chiamate gestite con passaggio a una persona
 seo_title: Agenti AI vocali e assistente telefonico - {title}
 seo_description: "Assistente telefonico con AI: risponde alle chiamate, fissa appuntamenti e passa i casi delicati a una persona, con trasparenza AI Act. Consulenza gratuita."
 ---

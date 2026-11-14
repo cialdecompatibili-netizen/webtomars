@@ -4,6 +4,7 @@ title: Dashboard e business intelligence
 description: "Dashboard e business intelligence: grafici e indicatori aggiornati per seguire vendite, marketing e operatività in un colpo d'occhio."
 gruppo: Strategia e consulenza
 ordine: 6
+sottotitolo: Indicatori aggiornati in un colpo d'occhio
 seo_title: "Dashboard e business intelligence su misura"
 seo_description: "Dashboard personalizzate e business intelligence: collegamento delle fonti, indicatori chiave, report automatici e accessi per ruolo. Consulenza gratuita."
 ---

@@ -4,7 +4,8 @@ title: Consulenza eCommerce
 description: "Consulenza ecommerce: analisi di catalogo, margini, percorso d'acquisto e canali per capire cosa cambiare per vendere meglio."
 gruppo: Strategia e consulenza
 ordine: 2
-seo_title: Consulenza ecommerce: analisi e piano per il tuo negozio online - {title}
+sottotitolo: Catalogo, margini e percorso d'acquisto
+seo_title: "Consulenza ecommerce: analisi e piano per il tuo negozio online - {title}"
 seo_description: "Consulenza e-commerce per aprire o migliorare un negozio online: analisi di catalogo, margini e traffico con un piano di interventi. Prima consulenza gratuita."
 ---
 

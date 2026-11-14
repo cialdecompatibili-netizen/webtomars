@@ -4,6 +4,7 @@ title: Firewall e protezione dagli attacchi
 description: "Firewall applicativo, filtri anti-bot e limiti ai tentativi di accesso per fermare gli attacchi piu' comuni."
 gruppo: Sicurezza informatica
 ordine: 3
+sottotitolo: Filtri anti-bot e difesa dagli attacchi
 ---
 
 ## Cosa include il servizio

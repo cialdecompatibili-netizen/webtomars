@@ -4,6 +4,7 @@ title: Analisi predittiva e reporting AI
 description: "Analisi predittiva e reporting con AI: previsioni di vendite e domanda e report automatici con commenti chiari e verificabili."
 gruppo: Strategia e consulenza
 ordine: 8
+sottotitolo: Previsioni e report automatici
 seo_title: "Analisi predittiva e reporting AI per aziende"
 seo_description: "Analisi predittiva e reporting con AI: previsioni su vendite e domanda, report automatici commentati e controlli sulla qualità dei dati. Consulenza gratuita."
 ---

@@ -4,6 +4,7 @@ title: Backup e ripristino del sito
 description: "Copie di sicurezza automatiche e verificate, per rimettere online il sito in poco tempo dopo un guasto o un attacco."
 gruppo: Sicurezza informatica
 ordine: 4
+sottotitolo: Copie verificate e ripartenza rapida
 ---
 
 ## Cosa include il servizio

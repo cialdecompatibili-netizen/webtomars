@@ -4,6 +4,7 @@ title: Monitoraggio e aggiornamenti di sicurezza
 description: "Controllo continuo del sito e aggiornamenti tempestivi, con avvisi quando qualcosa non va."
 gruppo: Sicurezza informatica
 ordine: 5
+sottotitolo: Controllo continuo e avvisi tempestivi
 ---
 
 ## Cosa include il servizio

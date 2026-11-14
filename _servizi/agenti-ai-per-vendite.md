@@ -4,6 +4,7 @@ title: Agenti AI per vendite
 description: "Agenti AI per le vendite: prima risposta ai contatti, qualificazione, appuntamenti, bozze di preventivo e follow-up, con decisioni commerciali sempre in mano alle persone."
 gruppo: AI e automazione
 ordine: 2
+sottotitolo: Contatti, appuntamenti e follow-up
 seo_title: Agenti AI per vendite e lead - {title}
 seo_description: "Agenti AI per le vendite: rispondono ai contatti, li qualificano, fissano appuntamenti e aggiornano il CRM. Le decisioni restano a te. Consulenza gratuita."
 ---

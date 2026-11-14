@@ -4,6 +4,7 @@ title: Social ads per eCommerce
 description: "Campagne social per negozi online su Meta e TikTok: annunci dinamici dal catalogo, creatività pensate per vendere e remarketing su chi ha già visitato il sito."
 gruppo: Advertising (PPC)
 ordine: 6
+sottotitolo: Meta e TikTok dal catalogo
 seo_title: "Social Ads per e-commerce: Meta e TikTok - {title}"
 seo_description: "Social Ads per negozi online: campagne su Facebook, Instagram e TikTok con catalogo dinamico, creatività e remarketing. Misura gli ordini reali."
 ---

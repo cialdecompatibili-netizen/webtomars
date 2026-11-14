@@ -4,6 +4,7 @@ title: Analisi competitiva con AI
 description: "Analisi competitiva con AI: concorrenti, offerte, prezzi, contenuti e posizionamento raccolti in modo ordinato e verificato."
 gruppo: Strategia e consulenza
 ordine: 9
+sottotitolo: Concorrenti, prezzi e posizionamento
 seo_title: "Analisi competitiva con AI: concorrenti e mercato"
 seo_description: "Analisi competitiva con AI: mappa dei concorrenti, confronto di offerte, contenuti e visibilità, con controllo umano e fonti pubbliche. Consulenza gratuita."
 ---

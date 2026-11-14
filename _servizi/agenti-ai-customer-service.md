@@ -4,6 +4,7 @@ title: Agenti AI customer service
 description: "Agenti AI per il customer service: risposte alle domande ricorrenti, stato di ordini e pratiche, passaggio a una persona nei casi delicati, su chat, email e WhatsApp."
 gruppo: AI e automazione
 ordine: 3
+sottotitolo: Risposte a clienti su chat, email e WhatsApp
 seo_title: Agenti AI customer service e assistenza clienti
 seo_description: "Agente AI per l'assistenza clienti: risponde alle domande frequenti, controlla ordini e pratiche e passa i casi delicati a una persona. Consulenza gratuita."
 ---

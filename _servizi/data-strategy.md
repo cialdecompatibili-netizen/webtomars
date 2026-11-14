@@ -4,6 +4,7 @@ title: Data strategy
 description: "Data strategy: capire quali dati raccogliere, dove tenerli e come usarli per decidere meglio, nel rispetto della privacy."
 gruppo: Strategia e consulenza
 ordine: 7
+sottotitolo: Quali dati raccogliere e come usarli
 seo_title: "Data strategy per aziende: dati utili e privacy"
 seo_description: "Data strategy: mappatura dei dati aziendali, scelta degli indicatori, organizzazione delle fonti e regole di qualità e privacy. Consulenza gratuita."
 ---

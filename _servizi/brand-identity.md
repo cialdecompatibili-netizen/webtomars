@@ -5,6 +5,7 @@ description: "Brand identity: nome, logo, colori, tono di voce e regole d'uso pe
 in_home: true
 gruppo: Design e brand
 ordine: 1
+sottotitolo: Nome, logo, colori e tono di voce
 seo_title: "Brand identity: logo, colori e tono di voce"
 seo_description: "Brand identity per aziende e professionisti: logo, palette, tipografia, tono di voce e linee guida d'uso. Prima consulenza gratuita, risposta entro 24 ore."
 ---

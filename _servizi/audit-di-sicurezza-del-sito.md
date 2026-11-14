@@ -4,6 +4,7 @@ title: Audit di sicurezza del sito
 description: "Analisi delle vulnerabilita' del tuo sito: plugin, accessi, configurazioni e punti deboli da correggere."
 gruppo: Sicurezza informatica
 ordine: 1
+sottotitolo: Vulnerabilità, accessi e punti deboli
 ---
 
 ## Cosa include il servizio

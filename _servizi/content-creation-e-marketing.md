@@ -4,6 +4,7 @@ title: Content creation e marketing
 description: "Content creation e marketing: strategia editoriale e contenuti scritti, visivi e video per sito, blog, newsletter e social."
 gruppo: Social e contenuti
 ordine: 3
+sottotitolo: Contenuti scritti, visivi e video
 seo_title: "Content creation e strategia editoriale - {title}"
 seo_description: "Content creation e marketing: piano editoriale, articoli, immagini e video coordinati tra sito, blog, newsletter e social. Prima consulenza gratuita."
 ---

@@ -4,6 +4,7 @@ title: Amazon SEO
 description: "Ottimizzazione delle schede prodotto Amazon: parole chiave, titoli, punti elenco, descrizioni e immagini per farti trovare e convincere chi visita la scheda."
 gruppo: SEO, GEO e visibilità
 ordine: 12
+sottotitolo: Schede prodotto che si trovano e convincono
 seo_title: "Amazon SEO: ottimizzazione schede prodotto"
 seo_description: "Ottimizziamo titoli, punti elenco, descrizioni e immagini delle tue schede Amazon partendo da come cercano i clienti. Consulenza gratuita."
 ---

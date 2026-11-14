@@ -4,6 +4,7 @@ title: Link building e Digital PR
 description: "Link building e digital PR senza link comprati: contenuti da citare, proposte mirate a giornalisti e siti di settore, monitoraggio dei risultati."
 gruppo: SEO, GEO e visibilità
 ordine: 10
+sottotitolo: Citazioni e link guadagnati sul web
 seo_title: Link building e digital PR senza link comprati
 seo_description: "Link e citazioni da siti autorevoli con contenuti utili e proposte mirate, senza link comprati né reti di siti. Consulenza gratuita."
 ---

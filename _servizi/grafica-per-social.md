@@ -4,6 +4,7 @@ title: Grafica per social
 description: "Grafica per social: modelli coordinati per post, storie e copertine, riconoscibili e facili da aggiornare nel tempo."
 gruppo: Social e contenuti
 ordine: 7
+sottotitolo: Modelli coordinati per post e storie
 seo_title: "Grafica per social: post, storie e copertine"
 seo_description: "Grafica per social coordinata col marchio: modelli per post, storie, copertine e carousel, in formati corretti per ogni piattaforma. Consulenza gratuita."
 ---

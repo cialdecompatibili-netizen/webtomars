@@ -4,6 +4,7 @@ title: SEO copywriting
 description: "Testi per il web chiari, utili e ottimizzati: pagine di servizio, schede prodotto, articoli e guide, sempre rivisti da una persona."
 gruppo: SEO, GEO e visibilità
 ordine: 11
+sottotitolo: Testi chiari, utili e ottimizzati
 seo_title: "SEO copywriting: testi che si fanno trovare"
 seo_description: "Testi per pagine di servizio, schede prodotto e articoli: utili per chi legge, ottimizzati per Google e rivisti da una persona. Consulenza gratuita."
 ---

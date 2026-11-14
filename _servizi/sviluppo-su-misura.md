@@ -4,6 +4,7 @@ title: Sviluppo su misura
 description: "Sviluppo su misura di applicazioni web, gestionali, integrazioni e aree riservate costruiti sui tuoi processi, con la sicurezza curata fin dall'inizio."
 gruppo: Sviluppo web
 ordine: 10
+sottotitolo: Applicazioni, gestionali e integrazioni
 seo_title: Sviluppo software su misura e applicazioni web
 seo_description: "Sviluppo su misura di applicazioni web, gestionali, integrazioni via API e aree riservate, con sicurezza curata secondo le indicazioni OWASP."
 ---

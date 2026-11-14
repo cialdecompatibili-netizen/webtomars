@@ -4,6 +4,7 @@ title: TikTok Ads
 description: "Campagne TikTok Ads con video verticali nativi, Spark Ads e pixel di tracciamento per far conoscere un brand e portare visite qualificate al tuo sito."
 gruppo: Advertising (PPC)
 ordine: 3
+sottotitolo: Video verticali e Spark Ads
 seo_title: "TikTok Ads: campagne video per il tuo brand"
 seo_description: "Gestione campagne TikTok Ads: video verticali nativi, Spark Ads, pubblici mirati e report chiari. Per brand, e-commerce e lanci di prodotto."
 ---

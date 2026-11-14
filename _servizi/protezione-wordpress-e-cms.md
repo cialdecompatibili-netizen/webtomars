@@ -4,6 +4,7 @@ title: Protezione di WordPress e CMS
 description: "Messa in sicurezza di WordPress e degli altri CMS: aggiornamenti, permessi, accessi e plugin sotto controllo."
 gruppo: Sicurezza informatica
 ordine: 2
+sottotitolo: Aggiornamenti, permessi e accessi
 ---
 
 ## Cosa include il servizio
