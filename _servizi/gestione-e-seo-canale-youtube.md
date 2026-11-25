@@ -5,6 +5,8 @@ description: "Gestione e SEO del canale YouTube: analisi dei dati, ricerca degli
 gruppo: Creator e YouTube
 ordine: 5
 sottotitolo: "Titoli, descrizioni e analisi"
+immagine: assets/img/servizi/gestione-e-seo-canale-youtube.webp
+immagine_alt: "Gestione e SEO del canale YouTube: illustrazione"
 seo_title: Gestione e SEO del canale YouTube - {title}
 seo_description: "Analisi, ricerca argomenti, titoli, descrizioni e playlist per far trovare i tuoi video su YouTube. Nessuna promessa impossibile. Consulenza gratuita."
 ---

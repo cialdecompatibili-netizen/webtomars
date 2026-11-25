@@ -5,6 +5,8 @@ description: "Influencer marketing: scelta dei creator adatti, accordi chiari e 
 gruppo: Social e contenuti
 ordine: 2
 sottotitolo: Creator giusti e collaborazioni chiare
+immagine: assets/img/servizi/influencer-marketing.webp
+immagine_alt: "Influencer marketing: illustrazione"
 seo_title: "Influencer marketing: collaborazioni con creator"
 seo_description: "Influencer marketing: selezione dei creator, brief, accordi, indicazione chiara delle collaborazioni commerciali e misurazione. Prima consulenza gratuita."
 ---

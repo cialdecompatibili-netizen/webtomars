@@ -6,6 +6,8 @@ in_home: true
 gruppo: Advertising (PPC)
 ordine: 1
 sottotitolo: Search, Shopping, Display, YouTube, PMax
+immagine: assets/img/servizi/google-ads.webp
+immagine_alt: "Google Ads: illustrazione"
 seo_title: "Google Ads: campagne che portano richieste"
 seo_description: "Gestione campagne Google Ads: Search, Shopping, Performance Max e Display con tracciamento delle conversioni e report chiari. Audit gratuito."
 ---

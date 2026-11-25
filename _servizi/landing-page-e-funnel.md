@@ -5,6 +5,8 @@ description: "Landing page e funnel progettati per portare chi arriva da pubblic
 gruppo: Sviluppo web
 ordine: 2
 sottotitolo: Pagine pensate per un'azione precisa
+immagine: assets/img/servizi/landing-page-e-funnel.webp
+immagine_alt: "Landing page e funnel: illustrazione"
 seo_title: Landing page e funnel di conversione - {title}
 seo_description: "Landing page e funnel: messaggio chiaro, pagine veloci, moduli e misure per trasformare visite e campagne in contatti o vendite. Consulenza gratuita."
 ---

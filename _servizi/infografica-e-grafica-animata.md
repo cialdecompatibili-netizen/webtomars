@@ -5,6 +5,8 @@ description: "Infografiche e grafica animata per spiegare dati, processi e idee 
 gruppo: Social e contenuti
 ordine: 6
 sottotitolo: Dati e idee spiegati con le immagini
+immagine: assets/img/servizi/infografica-e-grafica-animata.webp
+immagine_alt: "Infografica e grafica animata: illustrazione"
 seo_title: "Infografica e grafica animata - {title}"
 seo_description: "Infografiche e animazioni grafiche per spiegare dati e processi: progettazione, grafica coerente col marchio e formati per sito, social e presentazioni."
 ---
