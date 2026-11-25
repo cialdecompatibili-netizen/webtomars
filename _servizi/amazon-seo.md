@@ -5,9 +5,13 @@ description: "Ottimizzazione delle schede prodotto Amazon: parole chiave, titoli
 gruppo: SEO, GEO e visibilità
 ordine: 12
 sottotitolo: Schede prodotto che si trovano e convincono
+immagine: assets/img/servizi/amazon-seo.webp
+immagine_alt: "Amazon SEO: illustrazione"
 seo_title: "Amazon SEO: ottimizzazione schede prodotto"
 seo_description: "Ottimizziamo titoli, punti elenco, descrizioni e immagini delle tue schede Amazon partendo da come cercano i clienti. Consulenza gratuita."
 ---
+
+{% include immagine.liquid src="assets/img/servizi/amazon-seo.webp" alt="Amazon SEO: illustrazione" align="center" %}
 
 Su Amazon la maggior parte degli acquisti parte da una ricerca. Se la tua scheda non compare, o compare con un titolo confuso e foto scarse, il cliente sceglie un altro venditore. Il servizio **Amazon SEO** ottimizza le tue schede prodotto per essere trovate e per convincere chi le visita.
 

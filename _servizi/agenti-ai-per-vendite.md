@@ -5,9 +5,13 @@ description: "Agenti AI per le vendite: prima risposta ai contatti, qualificazio
 gruppo: AI e automazione
 ordine: 2
 sottotitolo: Contatti, appuntamenti e follow-up
+immagine: assets/img/servizi/agenti-ai-per-vendite.webp
+immagine_alt: "Agenti AI per vendite: illustrazione"
 seo_title: Agenti AI per vendite e lead - {title}
 seo_description: "Agenti AI per le vendite: rispondono ai contatti, li qualificano, fissano appuntamenti e aggiornano il CRM. Le decisioni restano a te. Consulenza gratuita."
 ---
+
+{% include immagine.liquid src="assets/img/servizi/agenti-ai-per-vendite.webp" alt="Agenti AI per vendite: illustrazione" align="center" %}
 
 Chi vende sa che il tempo si perde prima della trattativa: contatti che arrivano la sera e ricevono risposta dopo due giorni, richieste incomplete da richiamare, preventivi che nessuno ricorda di sollecitare. I nostri **agenti AI per le vendite** si occupano di queste fasi ripetitive, così chi vende può concentrarsi sulle conversazioni che portano a un contratto.
 

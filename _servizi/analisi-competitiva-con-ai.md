@@ -5,9 +5,13 @@ description: "Analisi competitiva con AI: concorrenti, offerte, prezzi, contenut
 gruppo: Strategia e consulenza
 ordine: 9
 sottotitolo: Concorrenti, prezzi e posizionamento
+immagine: assets/img/servizi/analisi-competitiva-con-ai.webp
+immagine_alt: "Analisi competitiva con AI: illustrazione"
 seo_title: "Analisi competitiva con AI: concorrenti e mercato"
 seo_description: "Analisi competitiva con AI: mappa dei concorrenti, confronto di offerte, contenuti e visibilità, con controllo umano e fonti pubbliche. Consulenza gratuita."
 ---
+
+{% include immagine.liquid src="assets/img/servizi/analisi-competitiva-con-ai.webp" alt="Analisi competitiva con AI: illustrazione" align="center" %}
 
 Prima di scegliere prezzi, messaggi o canali conviene sapere cosa fanno gli altri. L'**analisi competitiva con AI** accelera la raccolta e l'ordinamento delle informazioni pubbliche sui concorrenti, e un nostro analista verifica e interpreta il risultato.
 

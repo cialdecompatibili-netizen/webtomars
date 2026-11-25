@@ -5,9 +5,13 @@ description: "Analisi predittiva e reporting con AI: previsioni di vendite e dom
 gruppo: Strategia e consulenza
 ordine: 8
 sottotitolo: Previsioni e report automatici
+immagine: assets/img/servizi/analisi-predittiva-e-reporting-ai.webp
+immagine_alt: "Analisi predittiva e reporting AI: illustrazione"
 seo_title: "Analisi predittiva e reporting AI per aziende"
 seo_description: "Analisi predittiva e reporting con AI: previsioni su vendite e domanda, report automatici commentati e controlli sulla qualità dei dati. Consulenza gratuita."
 ---
+
+{% include immagine.liquid src="assets/img/servizi/analisi-predittiva-e-reporting-ai.webp" alt="Analisi predittiva e reporting AI: illustrazione" align="center" %}
 
 Guardare solo il passato non basta a pianificare acquisti, scorte e budget. L'**analisi predittiva** usa lo storico dei tuoi dati per stimare cosa potrebbe accadere, mentre il **reporting con AI** prepara ogni periodo un resoconto commentato, pronto da rivedere.
 

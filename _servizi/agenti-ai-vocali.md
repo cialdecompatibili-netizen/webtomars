@@ -5,9 +5,13 @@ description: "Agenti AI vocali che rispondono alle chiamate, fissano appuntament
 gruppo: AI e automazione
 ordine: 4
 sottotitolo: Chiamate gestite con passaggio a una persona
+immagine: assets/img/servizi/agenti-ai-vocali.webp
+immagine_alt: "Agenti AI vocali: illustrazione"
 seo_title: Agenti AI vocali e assistente telefonico - {title}
 seo_description: "Assistente telefonico con AI: risponde alle chiamate, fissa appuntamenti e passa i casi delicati a una persona, con trasparenza AI Act. Consulenza gratuita."
 ---
+
+{% include immagine.liquid src="assets/img/servizi/agenti-ai-vocali.webp" alt="Agenti AI vocali: illustrazione" align="center" %}
 
 Il telefono resta il canale più diretto, ma chi lavora sul campo, in studio o dietro a un bancone non riesce a rispondere sempre. Un **agente AI vocale** risponde alle chiamate, capisce cosa serve a chi chiama, e fa quello che gli hai insegnato: dare un'informazione, fissare un appuntamento, raccogliere i dati per essere richiamati o passare la chiamata a una persona.
 
