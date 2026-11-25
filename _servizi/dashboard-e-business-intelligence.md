@@ -5,6 +5,8 @@ description: "Dashboard e business intelligence: grafici e indicatori aggiornati
 gruppo: Strategia e consulenza
 ordine: 6
 sottotitolo: Indicatori aggiornati in un colpo d'occhio
+immagine: assets/img/servizi/dashboard-e-business-intelligence.webp
+immagine_alt: "Dashboard e business intelligence: illustrazione"
 seo_title: "Dashboard e business intelligence su misura"
 seo_description: "Dashboard personalizzate e business intelligence: collegamento delle fonti, indicatori chiave, report automatici e accessi per ruolo. Consulenza gratuita."
 ---

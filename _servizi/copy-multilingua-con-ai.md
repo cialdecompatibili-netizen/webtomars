@@ -5,6 +5,8 @@ description: "Testi in più lingue prodotti con l'AI e rivisti da una persona, a
 gruppo: AI e automazione
 ordine: 11
 sottotitolo: Testi in più lingue, rivisti da una persona
+immagine: assets/img/servizi/copy-multilingua-con-ai.webp
+immagine_alt: "Copy multilingua con AI: illustrazione"
 seo_title: Copy multilingua con AI e revisione - {title}
 seo_description: "Copy multilingua con AI: testi adattati per sito, schede prodotto ed email in più lingue, con glossario e revisione umana. Consulenza gratuita."
 ---

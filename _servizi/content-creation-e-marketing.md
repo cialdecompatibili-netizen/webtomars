@@ -5,6 +5,8 @@ description: "Content creation e marketing: strategia editoriale e contenuti scr
 gruppo: Social e contenuti
 ordine: 3
 sottotitolo: Contenuti scritti, visivi e video
+immagine: assets/img/servizi/content-creation-e-marketing.webp
+immagine_alt: "Content creation e marketing: illustrazione"
 seo_title: "Content creation e strategia editoriale - {title}"
 seo_description: "Content creation e marketing: piano editoriale, articoli, immagini e video coordinati tra sito, blog, newsletter e social. Prima consulenza gratuita."
 ---

@@ -5,6 +5,8 @@ description: "CRO con AI: analisi dei dati, ipotesi e test controllati per trasf
 gruppo: AI e automazione
 ordine: 15
 sottotitolo: Più richieste e acquisti dal sito
+immagine: assets/img/servizi/cro-con-ai.webp
+immagine_alt: "CRO con AI: illustrazione"
 seo_title: CRO con AI per aumentare le conversioni - {title}
 seo_description: "CRO con AI: analisi del percorso, test controllati e miglioramento di pagine e funnel per ottenere più richieste o vendite dal sito. Consulenza gratuita."
 ---

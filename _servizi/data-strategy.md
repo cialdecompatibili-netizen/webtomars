@@ -5,6 +5,8 @@ description: "Data strategy: capire quali dati raccogliere, dove tenerli e come 
 gruppo: Strategia e consulenza
 ordine: 7
 sottotitolo: Quali dati raccogliere e come usarli
+immagine: assets/img/servizi/data-strategy.webp
+immagine_alt: "Data strategy: illustrazione"
 seo_title: "Data strategy per aziende: dati utili e privacy"
 seo_description: "Data strategy: mappatura dei dati aziendali, scelta degli indicatori, organizzazione delle fonti e regole di qualità e privacy. Consulenza gratuita."
 ---

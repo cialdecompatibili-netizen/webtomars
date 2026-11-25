@@ -7,6 +7,8 @@ ordine: 7
 seo_title: "GEO Audit e Strategy: cosa dicono di te le AI"
 seo_description: "Verifica come ChatGPT, Gemini e Perplexity citano la tua azienda e ricevi un report in italiano con strategia e priorità. Prima consulenza gratuita."
 sottotitolo: "ChatGPT, Gemini, Perplexity"
+immagine: assets/img/servizi/geo-audit-e-strategy.webp
+immagine_alt: "GEO Audit e Strategy: illustrazione"
 ---
 
 Prima di investire in contenuti e interventi per farti citare dalle AI, conviene sapere dove sei oggi. Il **GEO Audit e Strategy** è il punto di partenza della [GEO]({{ '/servizi/geo/' | relative_url }}): una verifica di come ChatGPT, Gemini, Perplexity e le risposte AI di Google parlano della tua azienda, e un piano scritto per migliorare la situazione.

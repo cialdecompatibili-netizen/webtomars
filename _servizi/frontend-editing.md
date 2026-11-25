@@ -5,6 +5,8 @@ description: "Modifiche mirate al frontend del sito: grafica, layout, nuove sezi
 gruppo: Sviluppo web
 ordine: 9
 sottotitolo: Grafica e layout senza rifare tutto
+immagine: assets/img/servizi/frontend-editing.webp
+immagine_alt: "Frontend editing: illustrazione"
 seo_title: "Frontend editing: modifiche al sito web - {title}"
 seo_description: "Frontend editing: correzioni grafiche, nuove sezioni e interventi responsive su siti esistenti, senza rifare tutto il sito. Consulenza gratuita."
 ---

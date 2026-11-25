@@ -5,6 +5,8 @@ description: "Automazioni email e CRM: contatti in ordine, sequenze che partono 
 gruppo: AI e automazione
 ordine: 8
 sottotitolo: Sequenze, solleciti e recupero clienti
+immagine: assets/img/servizi/email-e-crm-automation.webp
+immagine_alt: "Email e CRM automation: illustrazione"
 seo_title: Email e CRM automation per aziende - {title}
 seo_description: "Email marketing e CRM automation: sequenze automatiche, solleciti, recupero carrelli e clienti inattivi, con consenso e privacy a posto. Consulenza gratuita."
 ---
