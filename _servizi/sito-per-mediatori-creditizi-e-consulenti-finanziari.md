@@ -5,6 +5,8 @@ description: "Sito per mediatori creditizi e consulenti finanziari su misura: fi
 gruppo: Siti su misura per nicchia
 ordine: 11
 sottotitolo: Fiducia e trasparenza fin dal primo contatto
+immagine: assets/img/servizi/sito-per-mediatori-creditizi-e-consulenti-finanziari.webp
+immagine_alt: "Sito per mediatori creditizi e consulenti finanziari: illustrazione"
 seo_title: Sito per mediatori creditizi e consulenti finanziari - {title}
 seo_description: "Sito per mediatori creditizi e consulenti finanziari su misura: fiducia e trasparenza fin dal primo contatto. Pensato per mediatori creditizi, consulenti finanziari e agenzie di intermediazione. Prima consulenza gratuita."
 ---

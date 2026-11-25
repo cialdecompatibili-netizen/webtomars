@@ -5,6 +5,8 @@ description: "Sito per fisioterapisti e osteopati su misura: trattamenti e preno
 gruppo: Siti su misura per nicchia
 ordine: 20
 sottotitolo: Trattamenti e prenotazione visite
+immagine: assets/img/servizi/sito-per-fisioterapisti-e-osteopati.webp
+immagine_alt: "Sito per fisioterapisti e osteopati: illustrazione"
 seo_title: Sito per fisioterapisti e osteopati - {title}
 seo_description: "Sito per fisioterapisti e osteopati su misura: trattamenti e prenotazione visite. Pensato per fisioterapisti, osteopati, chiropratici e centri di riabilitazione. Prima consulenza gratuita."
 ---

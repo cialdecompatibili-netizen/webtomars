@@ -5,6 +5,8 @@ description: "Sito per fotografi e videomaker su misura: portfolio veloce e rich
 gruppo: Siti su misura per nicchia
 ordine: 29
 sottotitolo: Portfolio veloce e richieste di preventivo
+immagine: assets/img/servizi/sito-per-fotografi-e-videomaker.webp
+immagine_alt: "Sito per fotografi e videomaker: illustrazione"
 seo_title: Sito per fotografi e videomaker - {title}
 seo_description: "Sito per fotografi e videomaker su misura: portfolio veloce e richieste di preventivo. Pensato per fotografi, videomaker e studi creativi. Prima consulenza gratuita."
 ---

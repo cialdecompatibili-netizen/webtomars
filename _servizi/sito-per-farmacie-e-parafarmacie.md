@@ -5,6 +5,8 @@ description: "Sito per farmacie e parafarmacie su misura: servizi e orari sempre
 gruppo: Siti su misura per nicchia
 ordine: 19
 sottotitolo: Servizi e orari sempre a portata di mano
+immagine: assets/img/servizi/sito-per-farmacie-e-parafarmacie.webp
+immagine_alt: "Sito per farmacie e parafarmacie: illustrazione"
 seo_title: Sito per farmacie e parafarmacie - {title}
 seo_description: "Sito per farmacie e parafarmacie su misura: servizi e orari sempre a portata di mano. Pensato per farmacie e parafarmacie. Prima consulenza gratuita."
 ---

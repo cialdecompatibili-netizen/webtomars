@@ -5,6 +5,8 @@ description: "Sito per elettricisti e impiantisti elettrici su misura: presenza 
 gruppo: Siti su misura per nicchia
 ordine: 16
 sottotitolo: Presenza locale per chi cerca un impiantista
+immagine: assets/img/servizi/sito-per-elettricisti-e-impiantisti.webp
+immagine_alt: "Sito per elettricisti e impiantisti elettrici: illustrazione"
 seo_title: Sito per elettricisti e impiantisti elettrici - {title}
 seo_description: "Sito per elettricisti e impiantisti elettrici su misura: presenza locale per chi cerca un impiantista. Pensato per elettricisti, impiantisti e installatori. Prima consulenza gratuita."
 ---
