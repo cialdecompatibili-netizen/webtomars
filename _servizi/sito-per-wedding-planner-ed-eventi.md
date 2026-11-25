@@ -5,6 +5,8 @@ description: "Sito per wedding planner ed eventi su misura: atmosfera, pacchetti
 gruppo: Siti su misura per nicchia
 ordine: 24
 sottotitolo: "Atmosfera, pacchetti e preventivi"
+immagine: assets/img/servizi/sito-per-wedding-planner-ed-eventi.webp
+immagine_alt: "Sito per wedding planner ed eventi: illustrazione"
 seo_title: Sito per wedding planner ed eventi - {title}
 seo_description: "Sito per wedding planner ed eventi su misura: atmosfera, pacchetti e preventivi. Pensato per wedding planner, organizzatori di eventi e location. Prima consulenza gratuita."
 ---

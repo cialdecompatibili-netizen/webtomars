@@ -5,6 +5,8 @@ description: "Sito per veterinari e toelettature su misura: ambulatorio, servizi
 gruppo: Siti su misura per nicchia
 ordine: 21
 sottotitolo: "Ambulatorio, servizi e appuntamenti"
+immagine: assets/img/servizi/sito-per-veterinari-e-toelettature.webp
+immagine_alt: "Sito per veterinari e toelettature: illustrazione"
 seo_title: Sito per veterinari e toelettature - {title}
 seo_description: "Sito per veterinari e toelettature su misura: ambulatorio, servizi e appuntamenti. Pensato per veterinari, ambulatori, toelettature e pensioni per animali. Prima consulenza gratuita."
 ---

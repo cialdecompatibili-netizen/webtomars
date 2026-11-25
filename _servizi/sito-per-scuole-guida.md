@@ -5,6 +5,8 @@ description: "Sito per scuole guida su misura: corsi, patenti e iscrizioni. Pens
 gruppo: Siti su misura per nicchia
 ordine: 32
 sottotitolo: "Corsi, patenti e iscrizioni"
+immagine: assets/img/servizi/sito-per-scuole-guida.webp
+immagine_alt: "Sito per scuole guida: illustrazione"
 seo_title: Sito per scuole guida - {title}
 seo_description: "Sito per scuole guida su misura: corsi, patenti e iscrizioni. Pensato per scuole guida e autoscuole. Prima consulenza gratuita."
 ---
