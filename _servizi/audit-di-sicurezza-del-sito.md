@@ -5,7 +5,11 @@ description: "Analisi delle vulnerabilita' del tuo sito: plugin, accessi, config
 gruppo: Sicurezza informatica
 ordine: 1
 sottotitolo: Vulnerabilità, accessi e punti deboli
+immagine: assets/img/servizi/audit-di-sicurezza-del-sito.webp
+immagine_alt: "Audit di sicurezza del sito: lente su scudo e codice"
 ---
+
+{% include immagine.liquid src="assets/img/servizi/audit-di-sicurezza-del-sito.webp" alt="Audit di sicurezza del sito: lente su scudo e codice" align="center" %}
 
 ## Cosa include il servizio
 
