@@ -5,6 +5,8 @@ description: "Restyling del sito web: nuova grafica, navigazione e velocità man
 gruppo: Sviluppo web
 ordine: 3
 sottotitolo: Nuova grafica senza perdere visibilità
+immagine: assets/img/servizi/restyling-del-sito.webp
+immagine_alt: "Restyling del sito: illustrazione"
 seo_title: Restyling sito web senza perdere SEO - {title}
 seo_description: "Restyling del sito web: rinnovo di grafica, usabilità e velocità, con reindirizzamenti e controlli SEO per non perdere posizioni. Consulenza gratuita."
 ---

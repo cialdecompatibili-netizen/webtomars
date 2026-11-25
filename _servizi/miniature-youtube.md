@@ -5,6 +5,8 @@ description: "Miniature YouTube chiare e coerenti per il tuo canale: stile ricon
 gruppo: Creator e YouTube
 ordine: 1
 sottotitolo: Thumbnail per YouTuber
+immagine: assets/img/servizi/miniature-youtube.webp
+immagine_alt: "Miniature YouTube: illustrazione"
 seo_title: Miniature YouTube per canali e creator - {title}
 seo_description: "Realizziamo miniature YouTube chiare e riconoscibili per creator e canali aziendali: stile coerente, pacchetti e varianti. Prima consulenza gratuita."
 ---

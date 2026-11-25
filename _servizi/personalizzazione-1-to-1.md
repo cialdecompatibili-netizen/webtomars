@@ -5,6 +5,8 @@ description: "Personalizzazione 1 to 1: contenuti, offerte ed email adattati al 
 gruppo: AI e automazione
 ordine: 13
 sottotitolo: Contenuti e offerte su misura per ogni cliente
+immagine: assets/img/servizi/personalizzazione-1-to-1.webp
+immagine_alt: "Personalizzazione 1-to-1: illustrazione"
 seo_title: Personalizzazione 1 to 1 con AI - {title}
 seo_description: "Personalizzazione 1 to 1: segmenti, contenuti ed email adattati a ogni cliente con AI, nel rispetto di privacy e consenso. Consulenza gratuita."
 ---

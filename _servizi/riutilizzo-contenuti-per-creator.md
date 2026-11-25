@@ -5,6 +5,8 @@ description: "Trasformiamo video e podcast in clip brevi, articoli, post social 
 gruppo: Creator e YouTube
 ordine: 10
 sottotitolo: "Da un video a clip, post e newsletter"
+immagine: assets/img/servizi/riutilizzo-contenuti-per-creator.webp
+immagine_alt: "Riutilizzo contenuti per creator: illustrazione"
 seo_title: Riutilizzo contenuti per creator e podcast
 seo_description: "Da un video o un podcast ricaviamo clip, articoli, post e newsletter adattati a ogni piattaforma. Testi riletti da una persona. Consulenza gratuita."
 ---

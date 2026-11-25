@@ -5,6 +5,8 @@ description: "Podcast per il tuo brand: formato, registrazione, montaggio, pubbl
 gruppo: Social e contenuti
 ordine: 8
 sottotitolo: Dal formato alla pubblicazione
+immagine: assets/img/servizi/podcast.webp
+immagine_alt: "Podcast: illustrazione"
 seo_title: "Podcast aziendale: produzione e strategia - {title}"
 seo_description: "Podcast per brand e professionisti: idea del format, registrazione, montaggio, pubblicazione sulle piattaforme e riutilizzo dei contenuti. Consulenza gratuita."
 ---
