@@ -5,6 +5,8 @@ description: "Sito per avvocati e studi legali su misura: autorevolezza e richie
 gruppo: Siti su misura per nicchia
 ordine: 2
 sottotitolo: Autorevolezza e richieste di consulenza
+immagine: assets/img/servizi/sito-per-avvocati-e-studi-legali.webp
+immagine_alt: "Sito per avvocati e studi legali: illustrazione"
 seo_title: Sito per avvocati e studi legali - {title}
 seo_description: "Sito per avvocati e studi legali su misura: autorevolezza e richieste di consulenza. Pensato per avvocati, studi legali e consulenti. Prima consulenza gratuita."
 ---

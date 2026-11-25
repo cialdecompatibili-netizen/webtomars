@@ -5,6 +5,8 @@ description: "Sito per agenti immobiliari su misura: annunci, zone e contatti. P
 gruppo: Siti su misura per nicchia
 ordine: 10
 sottotitolo: "Annunci, zone e contatti"
+immagine: assets/img/servizi/sito-per-agenti-immobiliari.webp
+immagine_alt: "Sito per agenti immobiliari: illustrazione"
 seo_title: Sito per agenti immobiliari - {title}
 seo_description: "Sito per agenti immobiliari su misura: annunci, zone e contatti. Pensato per agenti immobiliari, agenzie e consulenti. Prima consulenza gratuita."
 ---

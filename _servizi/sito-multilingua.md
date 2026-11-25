@@ -5,6 +5,8 @@ description: "Sito web in più lingue: struttura, SEO internazionale e testi ada
 gruppo: Sviluppo web
 ordine: 8
 sottotitolo: SEO internazionale e testi per ogni paese
+immagine: assets/img/servizi/sito-multilingua.webp
+immagine_alt: "Sito multilingua: illustrazione"
 seo_title: Sito multilingua e SEO internazionale - {title}
 seo_description: "Sito multilingua: struttura delle lingue, hreflang, testi tradotti e rivisti, anche per ecommerce. Per vendere e farsi trovare in più paesi."
 ---

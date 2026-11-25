@@ -5,6 +5,8 @@ description: "Sito per autofficine e carrozzerie su misura: servizi, preventivi 
 gruppo: Siti su misura per nicchia
 ordine: 22
 sottotitolo: "Servizi, preventivi e prenotazioni"
+immagine: assets/img/servizi/sito-per-autofficine-e-carrozzerie.webp
+immagine_alt: "Sito per autofficine e carrozzerie: illustrazione"
 seo_title: Sito per autofficine e carrozzerie - {title}
 seo_description: "Sito per autofficine e carrozzerie su misura: servizi, preventivi e prenotazioni. Pensato per autofficine, carrozzerie, gommisti ed elettrauto. Prima consulenza gratuita."
 ---

@@ -5,6 +5,8 @@ description: "Sito per architetti e studi tecnici su misura: progetti e credibil
 gruppo: Siti su misura per nicchia
 ordine: 15
 sottotitolo: "Progetti e credibilità professionale"
+immagine: assets/img/servizi/sito-per-architetti-e-studi-tecnici.webp
+immagine_alt: "Sito per architetti e studi tecnici: illustrazione"
 seo_title: Sito per architetti e studi tecnici - {title}
 seo_description: "Sito per architetti e studi tecnici su misura: progetti e credibilità professionale. Pensato per architetti, geometri, ingegneri e studi tecnici. Prima consulenza gratuita."
 ---
