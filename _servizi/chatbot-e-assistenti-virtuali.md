@@ -5,6 +5,8 @@ description: "Chatbot e assistenti virtuali costruiti sui tuoi contenuti: rispon
 gruppo: AI e automazione
 ordine: 5
 sottotitolo: Risposte ai clienti sui tuoi contenuti
+immagine: assets/img/servizi/chatbot-e-assistenti-virtuali.webp
+immagine_alt: "Chatbot e assistenti virtuali: illustrazione"
 seo_title: Chatbot e assistenti virtuali per aziende - {title}
 seo_description: "Chatbot e assistenti virtuali per siti e negozi online: risposte basate sui tuoi contenuti, passaggio a un operatore e trasparenza AI Act. Consulenza gratuita."
 ---

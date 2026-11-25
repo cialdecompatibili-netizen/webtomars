@@ -5,6 +5,8 @@ description: "Audit SEO del sito: indicizzazione, struttura, velocità, concorre
 gruppo: SEO, GEO e visibilità
 ordine: 2
 sottotitolo: Analisi completa e interventi in ordine di priorità
+immagine: assets/img/servizi/audit-seo-del-sito.webp
+immagine_alt: "Audit SEO del sito: illustrazione"
 seo_title: Audit SEO del sito web - {title}
 seo_description: "Audit SEO completo: indicizzazione, contenuti, Core Web Vitals e concorrenti, con un report in italiano e interventi in ordine di priorità. Consulenza gratuita."
 ---

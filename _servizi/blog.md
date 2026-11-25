@@ -5,6 +5,8 @@ description: "Blog aziendale impostato e gestito per farsi trovare su Google: st
 gruppo: Sviluppo web
 ordine: 6
 sottotitolo: Strategia e articoli per farsi trovare
+immagine: assets/img/servizi/blog.webp
+immagine_alt: "Blog: illustrazione"
 seo_title: Blog aziendale e strategia dei contenuti SEO
 seo_description: "Blog aziendale: impostazione tecnica, piano editoriale e articoli scritti per farsi trovare su Google e attirare clienti. Consulenza gratuita."
 ---

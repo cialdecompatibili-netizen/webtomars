@@ -5,6 +5,8 @@ description: "Brand voice AI: una guida scritta al tono del tuo marchio e istruz
 gruppo: AI e automazione
 ordine: 12
 sottotitolo: Il tono del marchio per gli strumenti AI
+immagine: assets/img/servizi/brand-voice-ai.webp
+immagine_alt: "Brand voice AI: illustrazione"
 seo_title: Brand voice AI per testi coerenti - {title}
 seo_description: "Brand voice AI: guida al tono del marchio e istruzioni per strumenti AI, per testi coerenti su sito, email e social. Consulenza gratuita."
 ---

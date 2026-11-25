@@ -6,6 +6,8 @@ gruppo: Creator e YouTube
 in_home: true
 ordine: 0
 sottotitolo: "Script, video, miniature e SEO ogni mese"
+immagine: assets/img/servizi/canale-completo-per-creator.webp
+immagine_alt: "Canale completo per creator: illustrazione"
 seo_title: Gestione canale YouTube completa per creator
 seo_description: "Pacchetto mensile per creator: strategia, script, montaggio, miniature, clip brevi e SEO con un unico referente. Consulenza gratuita."
 ---

@@ -5,6 +5,8 @@ description: "CMS custom: pannelli di gestione dei contenuti costruiti sul tuo m
 gruppo: Sviluppo web
 ordine: 5
 sottotitolo: Pannelli di gestione sul tuo modo di lavorare
+immagine: assets/img/servizi/cms-custom.webp
+immagine_alt: "CMS custom: illustrazione"
 seo_title: CMS custom e pannelli di gestione su misura
 seo_description: "Sviluppo di CMS custom: campi pensati per i tuoi contenuti, ruoli e permessi, anteprima e integrazioni. Ti diciamo anche quando conviene un CMS già pronto."
 ---

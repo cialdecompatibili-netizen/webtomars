@@ -5,6 +5,8 @@ description: "Audit del canale YouTube con report in italiano e piano contenuti 
 gruppo: Creator e YouTube
 ordine: 7
 sottotitolo: Analisi del canale e piano a 30 giorni
+immagine: assets/img/servizi/audit-e-piano-contenuti-youtube.webp
+immagine_alt: "Audit e piano contenuti YouTube: illustrazione"
 seo_title: Audit canale YouTube e piano contenuti - {title}
 seo_description: "Analisi dei dati del tuo canale YouTube con report in italiano e piano di 30 giorni: cosa pubblicare e cosa correggere. Consulenza gratuita."
 ---
