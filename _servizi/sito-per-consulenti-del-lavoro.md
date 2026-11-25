@@ -5,6 +5,8 @@ description: "Sito per consulenti del lavoro su misura: paghe e contributi, spie
 gruppo: Siti su misura per nicchia
 ordine: 5
 sottotitolo: Paghe e contributi, spiegati in modo semplice
+immagine: assets/img/servizi/sito-per-consulenti-del-lavoro.webp
+immagine_alt: "Sito per consulenti del lavoro: illustrazione"
 seo_title: Sito per consulenti del lavoro - {title}
 seo_description: "Sito per consulenti del lavoro su misura: paghe e contributi, spiegati in modo semplice. Pensato per consulenti del lavoro e studi paghe. Prima consulenza gratuita."
 ---

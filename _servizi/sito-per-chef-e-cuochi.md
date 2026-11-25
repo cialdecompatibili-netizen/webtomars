@@ -5,6 +5,8 @@ description: "Sito per chef e cuochi su misura: menu, eventi e catering privato.
 gruppo: Siti su misura per nicchia
 ordine: 31
 sottotitolo: "Menu, eventi e catering privato"
+immagine: assets/img/servizi/sito-per-chef-e-cuochi.webp
+immagine_alt: "Sito per chef e cuochi: illustrazione"
 seo_title: Sito per chef e cuochi - {title}
 seo_description: "Sito per chef e cuochi su misura: menu, eventi e catering privato. Pensato per chef, cuochi a domicilio e personal chef. Prima consulenza gratuita."
 ---

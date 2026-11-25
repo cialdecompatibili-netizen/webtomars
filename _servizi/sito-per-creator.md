@@ -5,6 +5,8 @@ description: "Sito personale per creator: vetrina, newsletter, vendita di corsi 
 gruppo: Creator e YouTube
 ordine: 6
 sottotitolo: "Sito, newsletter e vendita"
+immagine: assets/img/servizi/sito-per-creator.webp
+immagine_alt: "Sito e community per creator: illustrazione"
 seo_title: Sito web per creator e YouTuber - {title}
 seo_description: "Sito personale per creator: vetrina, newsletter, vendita di corsi e prodotti e pagina per gli sponsor. Un punto di arrivo che resta tuo. Consulenza gratuita."
 ---

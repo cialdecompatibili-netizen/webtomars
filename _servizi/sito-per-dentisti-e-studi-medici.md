@@ -5,6 +5,8 @@ description: "Sito per dentisti e studi medici su misura: trasparenza e prenotaz
 gruppo: Siti su misura per nicchia
 ordine: 3
 sottotitolo: Trasparenza e prenotazione visite
+immagine: assets/img/servizi/sito-per-dentisti-e-studi-medici.webp
+immagine_alt: "Sito per dentisti e studi medici: illustrazione"
 seo_title: Sito per dentisti e studi medici - {title}
 seo_description: "Sito per dentisti e studi medici su misura: trasparenza e prenotazione visite. Pensato per dentisti, medici e studi sanitari. Prima consulenza gratuita."
 ---

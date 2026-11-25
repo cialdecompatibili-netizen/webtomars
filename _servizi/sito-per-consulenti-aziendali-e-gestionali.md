@@ -5,6 +5,8 @@ description: "Sito per consulenti aziendali e gestionali su misura: il tuo metod
 gruppo: Siti su misura per nicchia
 ordine: 12
 sottotitolo: Il tuo metodo, in modo credibile
+immagine: assets/img/servizi/sito-per-consulenti-aziendali-e-gestionali.webp
+immagine_alt: "Sito per consulenti aziendali e gestionali: illustrazione"
 seo_title: Sito per consulenti aziendali e gestionali - {title}
 seo_description: "Sito per consulenti aziendali e gestionali su misura: il tuo metodo, in modo credibile. Pensato per consulenti aziendali, gestionali e formatori. Prima consulenza gratuita."
 ---

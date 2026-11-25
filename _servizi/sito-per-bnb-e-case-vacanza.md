@@ -5,6 +5,8 @@ description: "Sito per B&B e case vacanza su misura: meno commissioni, più pren
 gruppo: Siti su misura per nicchia
 ordine: 23
 sottotitolo: "Meno commissioni, più prenotazioni dirette"
+immagine: assets/img/servizi/sito-per-bnb-e-case-vacanza.webp
+immagine_alt: "Sito per B&B e case vacanza: illustrazione"
 seo_title: "Sito per B&B e case vacanza - {title}"
 seo_description: "Sito per B&B e case vacanza su misura: meno commissioni, più prenotazioni dirette. Pensato per B&B, affittacamere, agriturismi e case vacanza. Prima consulenza gratuita."
 ---

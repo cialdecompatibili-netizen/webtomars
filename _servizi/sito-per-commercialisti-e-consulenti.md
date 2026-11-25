@@ -5,6 +5,8 @@ description: "Sito per commercialisti e consulenti su misura: studio, servizi e 
 gruppo: Siti su misura per nicchia
 ordine: 4
 sottotitolo: "Studio, servizi e richieste di incarico"
+immagine: assets/img/servizi/sito-per-commercialisti-e-consulenti.webp
+immagine_alt: "Sito per commercialisti e consulenti: illustrazione"
 seo_title: Sito per commercialisti e consulenti - {title}
 seo_description: "Sito per commercialisti e consulenti su misura: studio, servizi e richieste di incarico. Pensato per commercialisti, consulenti del lavoro e studi professionali. Prima consulenza gratuita."
 ---
