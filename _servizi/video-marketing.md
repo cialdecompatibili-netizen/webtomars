@@ -5,6 +5,8 @@ description: "Video marketing: idee, riprese, montaggio e distribuzione di video
 gruppo: Social e contenuti
 ordine: 5
 sottotitolo: Idee, riprese, montaggio e distribuzione
+immagine: assets/img/servizi/video-marketing.webp
+immagine_alt: "Video marketing: illustrazione"
 seo_title: "Video marketing per aziende - {title}"
 seo_description: "Video marketing: strategia, sceneggiatura, montaggio e diffusione di video aziendali, presentazioni di prodotto e contenuti per social e sito."
 ---

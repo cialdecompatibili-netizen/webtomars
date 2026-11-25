@@ -5,6 +5,8 @@ description: "Web marketing strategico: analisi di pubblico e concorrenti e un p
 gruppo: Strategia e consulenza
 ordine: 1
 sottotitolo: Analisi target e concorrenti
+immagine: assets/img/servizi/web-marketing-strategico.webp
+immagine_alt: "Web marketing strategico: illustrazione"
 seo_title: Web marketing strategico e piano digitale - {title}
 seo_description: "Web marketing strategico: analisi di target e concorrenti, scelta dei canali e piano misurabile con priorità e budget. Consulenza gratuita."
 ---

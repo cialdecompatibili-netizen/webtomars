@@ -5,6 +5,8 @@ description: "Automazione dei processi aziendali con n8n e Make: meno lavoro man
 gruppo: AI e automazione
 ordine: 6
 sottotitolo: n8n, Make
+immagine: assets/img/servizi/workflow-automation.webp
+immagine_alt: "Workflow automation: illustrazione"
 seo_title: Automazione dei processi aziendali con n8n e Make
 seo_description: "Automatizziamo i processi ripetitivi di PMI e negozi online con n8n e Make: ordini, fatture, lead, email, report."
 ---

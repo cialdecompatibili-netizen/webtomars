@@ -5,6 +5,8 @@ description: "Immagini prodotte e adattate in serie con l'AI, con regole di stil
 gruppo: AI e automazione
 ordine: 10
 sottotitolo: Immagini in serie con stile coerente
+immagine: assets/img/servizi/visual-ai-su-larga-scala.webp
+immagine_alt: "Visual AI su larga scala: illustrazione"
 seo_title: Visual AI su larga scala per cataloghi e social
 seo_description: "Visual AI su larga scala: immagini coerenti per cataloghi, siti e social, partendo da foto reali e con controllo di qualità. Consulenza gratuita."
 ---

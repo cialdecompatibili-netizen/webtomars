@@ -5,6 +5,8 @@ description: "Web design: progettazione grafica di siti chiari, veloci da usare 
 gruppo: Design e brand
 ordine: 2
 sottotitolo: Siti chiari, veloci e coerenti col marchio
+immagine: assets/img/servizi/web-design.webp
+immagine_alt: "Web design: illustrazione"
 seo_title: "Web design per aziende e professionisti - {title}"
 seo_description: "Web design su misura: struttura delle pagine, grafica coerente col marchio, usabilità da mobile e attenzione alla velocità. Prima consulenza gratuita."
 ---
