@@ -11,8 +11,6 @@ seo_title: AI commerce per negozi online - {title}
 seo_description: "AI commerce: schede prodotto, ricerca, assistenza clienti e analisi per negozi online su Shopify, WooCommerce, PrestaShop e Magento. Consulenza gratuita."
 ---
 
-{% include immagine.liquid src="assets/img/servizi/ai-commerce.webp" alt="AI Commerce: illustrazione" align="center" %}
-
 L'intelligenza artificiale non fa vendere un negozio online da sola, ma può togliere lavoro ripetitivo e rendere più chiari i passaggi che portano all'acquisto. Il nostro servizio di **AI commerce** applica l'AI dove in un ecommerce c'è davvero qualcosa da migliorare: schede prodotto, ricerca, assistenza e analisi, senza stravolgere quello che già funziona.
 
 ## A chi serve

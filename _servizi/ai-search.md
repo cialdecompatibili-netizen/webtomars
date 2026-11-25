@@ -11,8 +11,6 @@ seo_title: "AI Search: farsi trovare su Amazon, YouTube e TikTok"
 seo_description: "Ottimizziamo schede Amazon, video YouTube e contenuti TikTok per farti trovare dove i clienti cercano. Nessuna promessa impossibile. Consulenza gratuita."
 ---
 
-{% include immagine.liquid src="assets/img/servizi/ai-search.webp" alt="AI Search: illustrazione" align="center" %}
-
 Le persone non cercano più solo su Google. Cercano un prodotto su Amazon, un tutorial su YouTube, un'idea o un locale su TikTok. Ognuna di queste piattaforme funziona come un motore di ricerca, con regole proprie. Il servizio **AI Search** ti fa trovare dove i tuoi clienti stanno già cercando.
 
 ## A chi serve

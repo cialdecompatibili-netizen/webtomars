@@ -11,8 +11,6 @@ seo_title: Agenti AI customer service e assistenza clienti
 seo_description: "Agente AI per l'assistenza clienti: risponde alle domande frequenti, controlla ordini e pratiche e passa i casi delicati a una persona. Consulenza gratuita."
 ---
 
-{% include immagine.liquid src="assets/img/servizi/agenti-ai-customer-service.webp" alt="Agenti AI customer service: illustrazione" align="center" %}
-
 Chi gestisce un'attività sa quanto pesano le stesse domande ripetute ogni giorno: dov'è il mio ordine, quali sono gli orari, come si fa un reso, avete questo prodotto. Un **agente AI per il customer service** risponde a queste richieste in qualsiasi momento, e quando il caso è delicato passa la conversazione a una persona con tutto il contesto.
 
 ## A chi serve

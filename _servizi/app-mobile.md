@@ -11,8 +11,6 @@ seo_title: "Sviluppo app mobile iOS e Android - {title}"
 seo_description: "Sviluppo di app mobile per iOS e Android: analisi, progetto, realizzazione, pubblicazione negli store e manutenzione. Prima consulenza gratuita."
 ---
 
-{% include immagine.liquid src="assets/img/servizi/app-mobile.webp" alt="App mobile: illustrazione" align="center" %}
-
 Un'app ha senso quando risolve un'esigenza ripetuta di chi la installa. Ti aiutiamo a capire se serve davvero, a scegliere la strada giusta e a realizzarla fino alla pubblicazione su **App Store** e **Google Play**.
 
 ## A chi serve

@@ -11,8 +11,6 @@ seo_title: Agenti AI per aziende su misura - {title}
 seo_description: "Agenti AI per aziende: assistenza clienti, vendite e processi interni, con permessi limitati, approvazione umana e informativa sull'AI come da AI Act. Consulenza gratuita."
 ---
 
-{% include immagine.liquid src="assets/img/servizi/agenti-ai-per-aziende.webp" alt="Agenti AI per aziende: illustrazione" align="center" %}
-
 Un agente AI non è un chatbot che ripete risposte preparate: è un assistente digitale che riceve un compito, consulta i dati che gli metti a disposizione, usa gli strumenti che gli abiliti e porta a termine il lavoro, fermandosi a chiedere conferma quando serve. Costruiamo **agenti AI per aziende** su processi precisi, uno alla volta, con controlli umani nei punti che contano.
 
 ## Dove aiutano davvero
