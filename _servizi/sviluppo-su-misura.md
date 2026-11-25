@@ -5,6 +5,8 @@ description: "Sviluppo su misura di applicazioni web, gestionali, integrazioni e
 gruppo: Sviluppo web
 ordine: 10
 sottotitolo: Applicazioni, gestionali e integrazioni
+immagine: assets/img/servizi/sviluppo-su-misura.webp
+immagine_alt: "Sviluppo su misura: illustrazione"
 seo_title: Sviluppo software su misura e applicazioni web
 seo_description: "Sviluppo su misura di applicazioni web, gestionali, integrazioni via API e aree riservate, con sicurezza curata secondo le indicazioni OWASP."
 ---

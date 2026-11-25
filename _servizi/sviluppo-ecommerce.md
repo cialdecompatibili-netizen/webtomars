@@ -6,6 +6,8 @@ in_home: true
 gruppo: Sviluppo web
 ordine: 4
 sottotitolo: Shopify, WooCommerce, Magento, PrestaShop
+immagine: assets/img/servizi/sviluppo-ecommerce.webp
+immagine_alt: "Sviluppo eCommerce: illustrazione"
 seo_title: Sviluppo ecommerce e siti e-commerce su misura - {title}
 seo_description: "Sviluppo ecommerce e realizzazione di siti e-commerce su Shopify, WooCommerce, PrestaShop e Magento: negozi veloci e pronti per Google. Prima consulenza gratuita."
 ---

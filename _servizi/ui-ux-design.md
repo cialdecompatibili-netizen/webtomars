@@ -5,6 +5,8 @@ description: "UI/UX design: studio dell'esperienza d'uso e dell'interfaccia di s
 gruppo: Design e brand
 ordine: 3
 sottotitolo: Esperienza d'uso e interfaccia testate
+immagine: assets/img/servizi/ui-ux-design.webp
+immagine_alt: "UI/UX design: illustrazione"
 seo_title: "UI/UX design di siti e applicazioni - {title}"
 seo_description: "UI/UX design: analisi degli utenti, flussi, prototipi cliccabili e interfacce chiare per siti, e-commerce e app. Prima consulenza gratuita."
 ---

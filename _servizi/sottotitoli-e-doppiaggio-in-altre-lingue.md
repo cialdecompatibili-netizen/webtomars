@@ -5,6 +5,8 @@ description: "Sottotitoli tradotti e doppiaggio con voce AI per i tuoi video, co
 gruppo: Creator e YouTube
 ordine: 9
 sottotitolo: "Inglese, spagnolo e portoghese"
+immagine: assets/img/servizi/sottotitoli-e-doppiaggio-in-altre-lingue.webp
+immagine_alt: "Sottotitoli e doppiaggio in altre lingue: illustrazione"
 seo_title: Sottotitoli e doppiaggio video in altre lingue
 seo_description: "Sottotitoli tradotti e doppiaggio AI con revisione umana per video YouTube in inglese, spagnolo e portoghese. Raggiungi nuovi spettatori. Consulenza gratuita."
 ---
