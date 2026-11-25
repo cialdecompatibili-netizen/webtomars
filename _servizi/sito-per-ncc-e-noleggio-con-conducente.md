@@ -5,6 +5,8 @@ description: "Sito per NCC e noleggio con conducente su misura: transfer, tour e
 gruppo: Siti su misura per nicchia
 ordine: 25
 sottotitolo: "Transfer, tour e richieste di prenotazione"
+immagine: assets/img/servizi/sito-per-ncc-e-noleggio-con-conducente.webp
+immagine_alt: "Sito per NCC e noleggio con conducente: illustrazione"
 seo_title: Sito per NCC e noleggio con conducente - {title}
 seo_description: "Sito per NCC e noleggio con conducente su misura: transfer, tour e richieste di prenotazione. Pensato per NCC, autisti privati, transfer e noleggio con conducente. Prima consulenza gratuita."
 ---

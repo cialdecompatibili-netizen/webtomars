@@ -5,6 +5,8 @@ description: "Sito per medici specialisti su misura: il tuo studio, presentato c
 gruppo: Siti su misura per nicchia
 ordine: 1
 sottotitolo: Il tuo studio, presentato con chiarezza
+immagine: assets/img/servizi/sito-per-medici-specialisti.webp
+immagine_alt: "Sito per medici specialisti: illustrazione"
 seo_title: Sito per medici specialisti - {title}
 seo_description: "Sito per medici specialisti su misura: il tuo studio, presentato con chiarezza. Pensato per medici specialisti e studi di diagnostica. Prima consulenza gratuita."
 ---

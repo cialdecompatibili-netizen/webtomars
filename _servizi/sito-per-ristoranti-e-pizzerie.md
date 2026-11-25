@@ -5,6 +5,8 @@ description: "Sito per ristoranti e pizzerie su misura: menu, prenotazioni e ord
 gruppo: Siti su misura per nicchia
 ordine: 26
 sottotitolo: "Menu, prenotazioni e ordini"
+immagine: assets/img/servizi/sito-per-ristoranti-e-pizzerie.webp
+immagine_alt: "Sito per ristoranti e pizzerie: illustrazione"
 seo_title: Sito per ristoranti e pizzerie - {title}
 seo_description: "Sito per ristoranti e pizzerie su misura: menu, prenotazioni e ordini. Pensato per ristoranti, pizzerie, trattorie e locali. Prima consulenza gratuita."
 ---

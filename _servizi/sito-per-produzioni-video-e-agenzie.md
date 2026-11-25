@@ -5,6 +5,8 @@ description: "Sito per produzioni video e agenzie su misura: il tuo portfolio in
 gruppo: Siti su misura per nicchia
 ordine: 17
 sottotitolo: Il tuo portfolio in primo piano
+immagine: assets/img/servizi/sito-per-produzioni-video-e-agenzie.webp
+immagine_alt: "Sito per produzioni video e agenzie: illustrazione"
 seo_title: Sito per produzioni video e agenzie - {title}
 seo_description: "Sito per produzioni video e agenzie su misura: il tuo portfolio in primo piano. Pensato per produzioni video, case di produzione e agenzie creative. Prima consulenza gratuita."
 ---
