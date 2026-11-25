@@ -9,8 +9,6 @@ immagine: assets/img/servizi/backup-e-ripristino-del-sito.webp
 immagine_alt: "Backup e ripristino del sito: illustrazione"
 ---
 
-{% include immagine.liquid src="assets/img/servizi/backup-e-ripristino-del-sito.webp" alt="Backup e ripristino del sito: illustrazione" align="center" %}
-
 ## Cosa include il servizio
 
 - **Copie automatiche** di file e database con la frequenza adatta al tuo sito

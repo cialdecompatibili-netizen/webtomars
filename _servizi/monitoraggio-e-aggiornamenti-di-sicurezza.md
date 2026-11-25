@@ -9,8 +9,6 @@ immagine: assets/img/servizi/monitoraggio-e-aggiornamenti-di-sicurezza.webp
 immagine_alt: "Monitoraggio e aggiornamenti di sicurezza: illustrazione"
 ---
 
-{% include immagine.liquid src="assets/img/servizi/monitoraggio-e-aggiornamenti-di-sicurezza.webp" alt="Monitoraggio e aggiornamenti di sicurezza: illustrazione" align="center" %}
-
 ## Cosa include il servizio
 
 - **Controllo che il sito sia raggiungibile**, con avviso se va giu'

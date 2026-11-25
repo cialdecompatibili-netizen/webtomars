@@ -9,8 +9,6 @@ immagine: assets/img/servizi/protezione-wordpress-e-cms.webp
 immagine_alt: "Protezione di WordPress e CMS: illustrazione"
 ---
 
-{% include immagine.liquid src="assets/img/servizi/protezione-wordpress-e-cms.webp" alt="Protezione di WordPress e CMS: illustrazione" align="center" %}
-
 ## Cosa include il servizio
 
 - **Aggiornamento di CMS, temi e plugin** con prova prima di metterli online

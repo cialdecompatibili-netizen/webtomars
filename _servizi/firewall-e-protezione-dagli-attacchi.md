@@ -9,8 +9,6 @@ immagine: assets/img/servizi/firewall-e-protezione-dagli-attacchi.webp
 immagine_alt: "Firewall e protezione dagli attacchi: illustrazione"
 ---
 
-{% include immagine.liquid src="assets/img/servizi/firewall-e-protezione-dagli-attacchi.webp" alt="Firewall e protezione dagli attacchi: illustrazione" align="center" %}
-
 ## Cosa include il servizio
 
 - **Firewall applicativo (WAF)** che filtra le richieste dannose prima che arrivino al sito

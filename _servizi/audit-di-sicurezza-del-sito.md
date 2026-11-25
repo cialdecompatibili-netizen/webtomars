@@ -9,8 +9,6 @@ immagine: assets/img/servizi/audit-di-sicurezza-del-sito.webp
 immagine_alt: "Audit di sicurezza del sito: lente su scudo e codice"
 ---
 
-{% include immagine.liquid src="assets/img/servizi/audit-di-sicurezza-del-sito.webp" alt="Audit di sicurezza del sito: lente su scudo e codice" align="center" %}
-
 ## Cosa include il servizio
 
 - **Controllo di aggiornamenti e plugin**: versioni vecchie, componenti abbandonati, estensioni inutili
