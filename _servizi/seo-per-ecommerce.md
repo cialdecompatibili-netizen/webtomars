@@ -5,6 +5,8 @@ description: "SEO per negozi online: schede prodotto, categorie, struttura del c
 gruppo: SEO, GEO e visibilità
 ordine: 4
 sottotitolo: Schede, categorie e catalogo
+immagine: assets/img/servizi/seo-per-ecommerce.webp
+immagine_alt: "SEO per eCommerce: illustrazione"
 seo_title: "SEO per ecommerce e negozi online: più visite e più ordini"
 seo_description: "Ottimizzazione SEO per e-commerce: categorie, schede prodotto, SEO tecnica e contenuti per far trovare il tuo negozio online. Analisi gratuita."
 ---

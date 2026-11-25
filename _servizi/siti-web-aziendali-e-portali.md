@@ -6,6 +6,8 @@ in_home: true
 gruppo: Sviluppo web
 ordine: 1
 sottotitolo: Veloci, accessibili e facili da aggiornare
+immagine: assets/img/servizi/siti-web-aziendali-e-portali.webp
+immagine_alt: "Siti web aziendali e portali: illustrazione"
 seo_title: Siti web aziendali e portali su misura - {title}
 seo_description: "Realizzazione di siti web aziendali e portali: velocità misurata sui Core Web Vitals, accessibilità WCAG, cookie a norma e aggiornamento autonomo."
 ---

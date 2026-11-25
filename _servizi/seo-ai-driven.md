@@ -7,6 +7,8 @@ ordine: 8
 seo_title: "SEO AI-driven: strumenti di AI e controllo umano"
 seo_description: "SEO che usa l'AI per analisi, controlli tecnici e bozze, con revisione umana su ogni contenuto. Niente pagine generate in serie. Consulenza gratuita."
 sottotitolo: "Analisi, automazioni e revisione umana"
+immagine: assets/img/servizi/seo-ai-driven.webp
+immagine_alt: "SEO AI-driven: illustrazione"
 ---
 
 L'intelligenza artificiale può accelerare molte parti del lavoro SEO: analisi dei dati, raggruppamento delle parole chiave, controlli tecnici, bozze di contenuti. Ma da sola non basta, e usata male può fare danni. La **SEO AI-driven** unisce strumenti di AI e controllo umano: più velocità sul lavoro ripetitivo, e le decisioni che contano restano in mano a persone.

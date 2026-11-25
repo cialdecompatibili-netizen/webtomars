@@ -5,6 +5,8 @@ description: "Testi per il web chiari, utili e ottimizzati: pagine di servizio, 
 gruppo: SEO, GEO e visibilità
 ordine: 11
 sottotitolo: Testi chiari, utili e ottimizzati
+immagine: assets/img/servizi/seo-copywriting.webp
+immagine_alt: "SEO copywriting: illustrazione"
 seo_title: "SEO copywriting: testi che si fanno trovare"
 seo_description: "Testi per pagine di servizio, schede prodotto e articoli: utili per chi legge, ottimizzati per Google e rivisti da una persona. Consulenza gratuita."
 ---

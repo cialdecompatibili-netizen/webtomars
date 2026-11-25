@@ -5,6 +5,8 @@ description: "Siti mobile-first e web app che funzionano dal browser: veloci, se
 gruppo: Sviluppo web
 ordine: 7
 sottotitolo: Veloci da telefono, collegati ai tuoi sistemi
+immagine: assets/img/servizi/siti-mobile-e-web-app.webp
+immagine_alt: "Siti mobile e web app: illustrazione"
 seo_title: Siti mobile e web app su misura - {title}
 seo_description: "Siti mobile-first e web app su misura: prenotazioni, aree riservate e gestione online, veloci e senza bisogno di scaricare un'app. Consulenza gratuita."
 ---

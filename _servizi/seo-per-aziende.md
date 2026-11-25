@@ -5,6 +5,8 @@ description: "SEO per aziende B2B e PMI: parole chiave ad alto intento, contenut
 gruppo: SEO, GEO e visibilità
 ordine: 3
 sottotitolo: B2B e PMI, misurato sui contatti
+immagine: assets/img/servizi/seo-per-aziende.webp
+immagine_alt: "SEO per aziende: illustrazione"
 seo_title: SEO per aziende e PMI - {title}
 seo_description: "SEO per aziende B2B e PMI: strategia, contenuti tecnici e lead qualificati dal canale organico. Prima consulenza gratuita."
 ---
