@@ -5,11 +5,11 @@ description: "Protezione di siti, server e sistemi con strumenti di intelligenza
 gruppo: Sicurezza informatica
 ordine: 8
 sottotitolo: Monitoraggio con AI e tecnici a disposizione
+immagine: assets/img/servizi/cyber-security-con-ai.webp
+immagine_alt: "Cyber security con AI: scudo digitale su server"
 seo_title: Cyber security con AI per siti e server - {title}
 seo_description: "Cyber security con AI per aziende: monitoraggio di siti e server, analisi di log e minacce, interventi di tecnici informatici su problemi e attacchi. Contattaci."
 ---
-
-{% include immagine.liquid src="assets/img/servizi/cyber-security-con-ai.webp" alt="Cyber security con AI: scudo digitale su server" align="center" %}
 
 Un sito o un server produce ogni giorno migliaia di righe di registro, tentativi di accesso e richieste anomale. Nessuno le legge tutte. La **cyber security con AI** usa strumenti di intelligenza artificiale per analizzarle in modo continuo e segnalare ciò che merita attenzione. Quando serve un intervento, a decidere e a intervenire sono i nostri tecnici informatici.
 

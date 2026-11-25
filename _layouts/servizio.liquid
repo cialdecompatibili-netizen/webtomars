@@ -20,6 +20,7 @@ layout: default
   </header>
 
   <article class="post-content">
+    {% if page.immagine %}{% include immagine.liquid src=page.immagine alt=page.immagine_alt align="center" %}{% endif %}
     {% comment %}
       INDICE AUTOMATICO come negli articoli del blog (stessa logica di _layouts/post.liquid): {% toc %} costruisce l'elenco dai titoli ## / ### del servizio.
       Lo stile e il "nascondi se ci sono meno di 2 voci" sono gia' in _includes/footer.liquid (#table-of-contents), uguali al blog.
