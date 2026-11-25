@@ -5,6 +5,8 @@ description: "Campagne Facebook e Instagram con obiettivi chiari: vendite, richi
 gruppo: Advertising (PPC)
 ordine: 2
 sottotitolo: Facebook e Instagram
+immagine: assets/img/servizi/meta-ads.webp
+immagine_alt: "Meta Ads: illustrazione"
 seo_title: "Meta Ads: campagne su Facebook e Instagram"
 seo_description: "Gestione campagne Meta Ads su Facebook e Instagram: pubblico, creatività, pixel e conversioni per portare vendite e contatti."
 ---

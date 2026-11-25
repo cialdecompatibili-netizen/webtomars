@@ -5,6 +5,8 @@ description: "Manutenzione del sito web: aggiornamenti, backup, sicurezza, monit
 gruppo: Sviluppo web
 ordine: 11
 sottotitolo: Aggiornamenti, backup e assistenza
+immagine: assets/img/servizi/manutenzione-e-infrastruttura.webp
+immagine_alt: "Manutenzione e infrastruttura: illustrazione"
 seo_title: Manutenzione sito web e assistenza - {title}
 seo_description: "Manutenzione sito web: aggiornamenti controllati, backup, sicurezza, monitoraggio e assistenza tecnica per siti WordPress e su misura. Consulenza gratuita."
 ---

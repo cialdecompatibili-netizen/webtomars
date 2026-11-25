@@ -5,6 +5,8 @@ description: "Marketing turistico per hotel, strutture e tour operator: sito, SE
 gruppo: Settori verticali
 ordine: 1
 sottotitolo: Hotel, OTA, tour operator
+immagine: assets/img/servizi/marketing-turistico.webp
+immagine_alt: "Marketing turistico: illustrazione"
 seo_title: "Marketing turistico per hotel e strutture - {title}"
 seo_description: "Marketing turistico: sito con prenotazione diretta, SEO locale, schede su Google, contenuti stagionali e campagne per hotel e tour operator."
 ---

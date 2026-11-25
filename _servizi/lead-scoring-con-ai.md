@@ -5,6 +5,8 @@ description: "Lead scoring con AI: un punteggio chiaro per ogni contatto, basato
 gruppo: AI e automazione
 ordine: 7
 sottotitolo: Un punteggio per ogni contatto
+immagine: assets/img/servizi/lead-scoring-con-ai.webp
+immagine_alt: "Lead scoring con AI: illustrazione"
 seo_title: Lead scoring con AI per team commerciali - {title}
 seo_description: "Lead scoring con AI: punteggio spiegabile per ogni contatto in base a dati, comportamento e storico del CRM, per dare priorità a chi è pronto a decidere."
 ---

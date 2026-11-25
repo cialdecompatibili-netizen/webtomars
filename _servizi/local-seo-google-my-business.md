@@ -5,6 +5,8 @@ description: "Local SEO e Google Business Profile: scheda curata, recensioni, pa
 gruppo: SEO, GEO e visibilità
 ordine: 5
 sottotitolo: Farsi trovare da chi cerca vicino
+immagine: assets/img/servizi/local-seo-google-my-business.webp
+immagine_alt: "Local SEO / Google My Business: illustrazione"
 seo_title: Local SEO e Google Business Profile - {title}
 seo_description: "Cura della scheda Google Business Profile, recensioni, pagine locali e dati coerenti per essere trovato da chi cerca vicino. Consulenza gratuita."
 ---

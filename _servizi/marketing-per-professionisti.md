@@ -5,6 +5,8 @@ description: "Marketing per professionisti: sito, scheda su Google, contenuti e 
 gruppo: Settori verticali
 ordine: 2
 sottotitolo: Studi e liberi professionisti
+immagine: assets/img/servizi/marketing-per-professionisti.webp
+immagine_alt: "Marketing per professionisti: illustrazione"
 seo_title: "Marketing per professionisti e studi - {title}"
 seo_description: "Marketing per studi e liberi professionisti: sito chiaro, SEO locale, contenuti utili e richieste di contatto, nel rispetto dei codici deontologici."
 ---
