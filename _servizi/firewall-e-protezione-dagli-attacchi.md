@@ -5,7 +5,11 @@ description: "Firewall applicativo, filtri anti-bot e limiti ai tentativi di acc
 gruppo: Sicurezza informatica
 ordine: 3
 sottotitolo: Filtri anti-bot e difesa dagli attacchi
+immagine: assets/img/servizi/firewall-e-protezione-dagli-attacchi.webp
+immagine_alt: "Firewall e protezione dagli attacchi: illustrazione"
 ---
+
+{% include immagine.liquid src="assets/img/servizi/firewall-e-protezione-dagli-attacchi.webp" alt="Firewall e protezione dagli attacchi: illustrazione" align="center" %}
 
 ## Cosa include il servizio
 

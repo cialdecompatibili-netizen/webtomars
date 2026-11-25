@@ -5,7 +5,11 @@ description: "Copie di sicurezza automatiche e verificate, per rimettere online 
 gruppo: Sicurezza informatica
 ordine: 4
 sottotitolo: Copie verificate e ripartenza rapida
+immagine: assets/img/servizi/backup-e-ripristino-del-sito.webp
+immagine_alt: "Backup e ripristino del sito: illustrazione"
 ---
+
+{% include immagine.liquid src="assets/img/servizi/backup-e-ripristino-del-sito.webp" alt="Backup e ripristino del sito: illustrazione" align="center" %}
 
 ## Cosa include il servizio
 

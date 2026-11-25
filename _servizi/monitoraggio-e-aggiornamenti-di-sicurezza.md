@@ -5,7 +5,11 @@ description: "Controllo continuo del sito e aggiornamenti tempestivi, con avvisi
 gruppo: Sicurezza informatica
 ordine: 5
 sottotitolo: Controllo continuo e avvisi tempestivi
+immagine: assets/img/servizi/monitoraggio-e-aggiornamenti-di-sicurezza.webp
+immagine_alt: "Monitoraggio e aggiornamenti di sicurezza: illustrazione"
 ---
+
+{% include immagine.liquid src="assets/img/servizi/monitoraggio-e-aggiornamenti-di-sicurezza.webp" alt="Monitoraggio e aggiornamenti di sicurezza: illustrazione" align="center" %}
 
 ## Cosa include il servizio
 

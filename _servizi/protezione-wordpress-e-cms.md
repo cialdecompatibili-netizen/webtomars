@@ -5,7 +5,11 @@ description: "Messa in sicurezza di WordPress e degli altri CMS: aggiornamenti, 
 gruppo: Sicurezza informatica
 ordine: 2
 sottotitolo: Aggiornamenti, permessi e accessi
+immagine: assets/img/servizi/protezione-wordpress-e-cms.webp
+immagine_alt: "Protezione di WordPress e CMS: illustrazione"
 ---
+
+{% include immagine.liquid src="assets/img/servizi/protezione-wordpress-e-cms.webp" alt="Protezione di WordPress e CMS: illustrazione" align="center" %}
 
 ## Cosa include il servizio
 
