@@ -3,3 +3,5 @@
 - 15/11/2026 - TAB DI /servizi/: la cella mostra titolo + 'sottotitolo:' (NON la description). Ogni servizio deve averlo (3-8 parole, senza due punti). Controllo: python C:\Users\mirco\Desktop\claudetemp\scan_sottotitoli.py (deve dire 'senza sottotitolo 0'). Un due punti non tra virgolette in seo_title/description rompe il front matter e il servizio esce senza titolo (successo con consulenza-ecommerce): dopo ogni modifica validare con yaml.safe_load.
 - 25/11/2026 - IMMAGINE PILOTA PER UN SERVIZIO (cyber-security-con-ai, FUNZIONA): generare con gemini_auto\img.py (profilo blog 16:9, vedi gemini_auto\IMMAGINI_API.md, senza browser, ~15 s), salvare il webp grande in assets/img/servizi/<slug>.webp, NEL FRONT MATTER aggiungere immagine: assets/img/servizi/<slug>.webp e immagine_alt: "..." (il layout servizio.liquid la mostra tra titolo e indice, NON usare include nel testo) (script di esempio: claudetemp\aggiungi_img_servizio.py, scrive in binario con CRLF, idempotente), commit e push (nessun checkpoint/rebase serviti). Verificato: pagina e immagine HTTP 200 online, run Actions success. Sito: https://webtomars.it/servizi/cyber-security-con-ai/
 
+
+
