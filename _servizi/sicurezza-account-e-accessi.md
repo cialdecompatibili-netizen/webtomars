@@ -5,6 +5,8 @@ description: "Password robuste, autenticazione a due fattori e gestione dei perm
 gruppo: Sicurezza informatica
 ordine: 6
 sottotitolo: Password, doppio fattore e permessi
+immagine: assets/img/servizi/sicurezza-account-e-accessi.webp
+immagine_alt: "Sicurezza di account e accessi: illustrazione"
 ---
 
 ## Cosa include il servizio
