@@ -5,6 +5,8 @@ description: "Sito per scuole di danza e musica su misura: corsi, orari e iscriz
 gruppo: Siti su misura per nicchia
 ordine: 34
 sottotitolo: "Corsi, orari e iscrizioni"
+immagine: assets/img/servizi/sito-per-scuole-di-danza-e-musica.webp
+immagine_alt: "Sito per scuole di danza e musica: illustrazione"
 seo_title: Sito per scuole di danza e musica - {title}
 seo_description: "Sito per scuole di danza e musica su misura: corsi, orari e iscrizioni. Pensato per scuole di danza, scuole di musica e accademie. Prima consulenza gratuita."
 ---
